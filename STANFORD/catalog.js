@@ -1,39 +1,42 @@
 "use strict";
 
 // full search
-$(function() { 
+$(function() {
   $('#full-search').on('input', function(e) {
-    // debugger;
 
     // Declare variables 
     var input, filter, i;
     input = $('#full-search');
-    filter = new RegExp(input["0"].value, 'i');
 
     var html_table =  '<div class="row">' +
                         '<div class="table-responsive">' +
                           '<table class="table table-hover">' +
                             '<tbody>';
 
-    // Loop through all records in dicitonary, and show those who don't match the search query
-    for (var key in letters_data) {
-      var data = letters_data[key];
-      var length_data = letters_data[key].length;
-      for (i = 0; i < length_data; i++) {
-        if ((filter.test(data[i]["t"])) || (input["0"].value === '')) {
-          html_table = html_table + '<tr><td class="col-xs-2"><a class="stanford" href="' + 
-                              data[i]["k"] + '">' + data[i]["k"] +
-                              '</a></td><td>' + data[i]["t"] + 
-                              '</td></tr>';
+    // start search withh delay in 1000 ms
+    delay(function(){
+      filter = new RegExp(input["0"].value, 'i');
+      // Loop through all records in dicitonary, and show those who match the search query
+      for (var key in letters_data) {
+        var data = letters_data[key];
+        var length_data = letters_data[key].length;
+        for (i = 0; i < length_data; i++) {
+          if ((filter.test(data[i]["t"])) || (input["0"].value === '')) {
+            html_table = html_table + '<tr><td class="col-xs-2"><a class="stanford" href="' +
+                                data[i]["k"] + '">' + data[i]["k"] +
+                                '</a></td><td>' + data[i]["t"] +
+                                '</td></tr>';
+          }
         }
       }
-    }                                
 
-    html_table = html_table + '</tbody></table></div></div>';
+      html_table = html_table + '</tbody></table></div></div>';
 
-    $('#letter').html(html_table);
-    link_item();
-  });  
+      $('#letter').html(html_table);
+      link_item();
+      // alert('Time elapsed!');
+    }, 1000 );
+  });
 });
 
 
@@ -48,7 +51,7 @@ $(function() {
                         '<div class="col-xs-2" id="t-letter">' + letter + '</div>' +
                         '<div class="col-xs-10 search">' +
                           '<input type="text" class="form-control" id="input-search" placeholder="Search by title..."/>' +
-                        '</div>' + 
+                        '</div>' +
                       '</div>';
 
     var html_table =  '<div class="row">' +
@@ -59,15 +62,15 @@ $(function() {
     var i = 0;
     var length_data = letters_data[letter].length;
     for (i = 0; i < length_data; i++) {
-      html_table = html_table + '<tr><td class="col-xs-2"><a class="stanford" href="' + 
+      html_table = html_table + '<tr><td class="col-xs-2"><a class="stanford" href="' +
                               letters_data[letter][i]["k"] + '">' + letters_data[letter][i]["k"] +
-                              '</a></td><td>' + letters_data[letter][i]["t"] + 
+                              '</a></td><td>' + letters_data[letter][i]["t"] +
                               '</td></tr>';
-    }                                
+    }
 
     html_table = html_table + '</tbody></table></div></div>';
 
-    $('#letter').html(html_search+html_table)
+    $('#letter').html(html_search+html_table);
 
     link_item();
     search_item();
@@ -79,30 +82,41 @@ function link_item() {
   $("a[class='stanford']").each(function(){
     $(this).attr('href','https://searchworks.stanford.edu/catalog/'+$(this).attr('href')+'/librarian_view');
    });
-};
+}
 
 // search by titile inside letter's table
 function search_item() { 
   $('#input-search').on('input', function(e) {
-    // debugger;
     // Declare variables 
     var input, filter, table, tr, td, i;
     input = $('#input-search');
-    filter = new RegExp(input["0"].value, 'i');
     table = $('#table-search');
-    tr = table["0"].rows
+    tr = table["0"].rows;
 
-    // Loop through all table rows, and hide those who don't match the search query
-    for (i = 0; i < tr.length; i++) {
-      td = tr[i].cells[1].innerText;
-      if ((filter.test(td)) || (input["0"].value === '')) {
-        tr[i].style.display = "";
-      } else {
-        tr[i].style.display = "none";
+    // start search withh delay in 1000 ms
+    delay(function(){
+      filter = new RegExp(input["0"].value, 'i');
+      // Loop through all table rows, and hide those who match the search query
+      for (i = 0; i < tr.length; i++) {
+        td = tr[i].cells[1].innerText;
+        if ((filter.test(td)) || (input["0"].value === '')) {
+          tr[i].style.display = "";
+        } else {
+          tr[i].style.display = "none";
+        }
       }
-    }
-  });  
-};
+      // alert('Time elapsed!');
+      }, 1000 );
+  });
+}
+
+var delay = (function(){
+  var timer = 0;
+  return function(callback, ms){
+    clearTimeout (timer);
+    timer = setTimeout(callback, ms);
+  };
+})();
 
 var letters_data = {'A':[{'k': '461625', 't': 'A  akcent'},
                      {'k': '7759555', 't': 'A  revista de arquitectura y urbanismo'},

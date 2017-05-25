@@ -1,58 +1,84 @@
-    header, body {
-      font-family: 'Montserrat', sans-serif;
-    }
+header, body, footer {
+  font-family: 'Montserrat', sans-serif;
+}
 
-    .container-fluid {
-      margin: 0px 15px 0px 15px;
-    }
+footer {
+  background-color: #8C1515;
+  color: #FFFFFF;
+}
 
-    #t {
-      background-color: #8C1515;
-      color: #FFFFFF;
-      text-align: center;
-      font-family: 'Source Serif Pro', serif;
-      font-size: 30px;
-      font-weight: bold;
-      margin: 0px 0px 25px 0px;
+p {
+  margin: 30px;
+  padding: 10px 0px 10px 0px;
+}
 
-    }
+.container-fluid {
+  margin: 0px 15px 0px 15px;
+}
 
-    #t-fullsearch, #t-letter {
-      font-weight: bold;
-      font-family: 'Source Serif Pro', serif;
-      color: #8C1515;
-    }
+#t {
+  background-color: #8C1515;
+  color: #FFFFFF;
+  text-align: center;
+  font-family: 'Source Serif Pro', serif;
+  font-size: 30px;
+  font-weight: bold;
+  margin: 0px 0px 25px 0px;
 
-    #t-fullsearch {
-      text-align: right;
-      font-size: 15px;
-    }
+}
 
-    #t-letter {
-      font-size: 40px;
-    }
+#t-fullsearch, #t-letter {
+  font-weight: bold;
+  font-family: 'Source Serif Pro', serif;
+  color: #8C1515;
+}
 
-    .table {
-      margin: 0px 15px 0px 15px;
-    }
+#t-fullsearch {
+  text-align: right;
+  font-size: 15px;
+}
 
-    hr {
-      border-color: #8C1515;
-      border-width: 3px;
-    }
+#t-letter {
+  font-size: 40px;
+}
 
-    .table > tbody > tr > td {
-      vertical-align: top;
-    }
+.table {
+  margin: 0px 15px 0px 15px;
+}
 
-    .search, .search-input {
-      padding: 10px; 
-    }
+hr {
+  border-color: #8C1515;
+  border-width: 3px;
+}
 
-    .buttons {
-      margin-left: 5px;
-      margin-right: 5px;
-      margin-top: 10px;
-      margin-bottom: 10px;
-      width: 41px;
-    }
+a:hover {
+  color: #8C1515;
+  text-decoration: underline;
+}
+
+a#me {
+  color: #FFFFFF !important; 
+  text-decoration: underline;
+}
+
+a#me:hover {
+  color: #000000 !important;
+  text-decoration: underline;
+}
+
+
+.table > tbody > tr > td {
+  vertical-align: top;
+}
+
+.search, .search-input {
+  padding: 10px; 
+}
+
+.buttons {
+  margin-left: 5px;
+  margin-right: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 41px;
+}
