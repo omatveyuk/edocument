@@ -1,0 +1,136 @@
+{
+  "CatalogTitle": "nile flow   a quarterly newsletter of the eastern nile technical regional office ",
+  "OriginalTitle": "Nile-flow : a quarterly newsletter of the Eastern Nile Technical Regional Office",
+  "CallNumber": "HD1699 .N496 N562 F",
+  "Issues": [
+    {
+      "Identifier": "8| 3.1\n        a| 2\n        b| 2\n        i| 2010\n        j| 12",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 2"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        },
+        {
+          "Key": "i",
+          "Value": " 2010"
+        },
+        {
+          "Key": "j",
+          "Value": " 12"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1944902639
+    },
+    {
+      "Identifier": "8| 3.2\n        a| 2\n        b| 3\n        i| 2011\n        j| 09",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3.2"
+        },
+        {
+          "Key": "a",
+          "Value": " 2"
+        },
+        {
+          "Key": "b",
+          "Value": " 3"
+        },
+        {
+          "Key": "i",
+          "Value": " 2011"
+        },
+        {
+          "Key": "j",
+          "Value": " 09"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 727226541
+    }
+  ],
+  "StanfordLibraryId": 9194648,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|CURRENTPER"
+  ],
+  "LastUpdatedTimestamp": "2015-12-03T05:45:47.0493947-08:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " v."
+        },
+        {
+          "Key": "b",
+          "Value": " no."
+        },
+        {
+          "Key": "u",
+          "Value": " 4"
+        },
+        {
+          "Key": "v",
+          "Value": " r"
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        },
+        {
+          "Key": "j",
+          "Value": " (month)"
+        }
+      ]
+    },
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3"
+        },
+        {
+          "Key": "a",
+          "Value": " v."
+        },
+        {
+          "Key": "b",
+          "Value": " iss."
+        },
+        {
+          "Key": "u",
+          "Value": " 4"
+        },
+        {
+          "Key": "v",
+          "Value": " r"
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        },
+        {
+          "Key": "j",
+          "Value": " (month)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": [
+    "Quarterly"
+  ]
+}

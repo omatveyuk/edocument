@@ -1,0 +1,162 @@
+{
+  "CatalogTitle": "holodomor studies ",
+  "OriginalTitle": "Holodomor studies",
+  "CallNumber": "DK508.837 .H65",
+  "Issues": [
+    {
+      "Identifier": "8| 2.1\n        a| 1\n        b| 1\n        i| 2009",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 1"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2009"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 641388052
+    },
+    {
+      "Identifier": "8| 2.2\n        a| 1\n        b| 2\n        i| 2009",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.2"
+        },
+        {
+          "Key": "a",
+          "Value": " 1"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        },
+        {
+          "Key": "i",
+          "Value": " 2009"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 125160980
+    },
+    {
+      "Identifier": "8| 2.3\n        a| 2\n        b| 1\n        i| 2010",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.3"
+        },
+        {
+          "Key": "a",
+          "Value": " 2"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2010"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1630220773
+    },
+    {
+      "Identifier": "8| 2.4\n        a| 2\n        b| 2\n        i| 2010",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.4"
+        },
+        {
+          "Key": "a",
+          "Value": " 2"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        },
+        {
+          "Key": "i",
+          "Value": " 2010"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1764110821
+    },
+    {
+      "Identifier": "8| 2.5\n        a| 3\n        b| 1/2\n        i| 2011",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.5"
+        },
+        {
+          "Key": "a",
+          "Value": " 3"
+        },
+        {
+          "Key": "b",
+          "Value": " 1/2"
+        },
+        {
+          "Key": "i",
+          "Value": " 2011"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 389101110
+    }
+  ],
+  "StanfordLibraryId": 9172098,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "SAL3|STACKS",
+    "GREEN|CURRENTPER"
+  ],
+  "LastUpdatedTimestamp": "2015-12-03T05:45:47.0493947-08:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " v."
+        },
+        {
+          "Key": "b",
+          "Value": " iss."
+        },
+        {
+          "Key": "u",
+          "Value": " 2"
+        },
+        {
+          "Key": "v",
+          "Value": " r"
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": [
+    "Semiannual"
+  ]
+}

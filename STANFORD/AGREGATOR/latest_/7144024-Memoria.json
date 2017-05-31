@@ -1,0 +1,220 @@
+{
+  "CatalogTitle": "memoria ",
+  "OriginalTitle": "Memoria",
+  "CallNumber": "JC599. P4 M46",
+  "Issues": [
+    {
+      "Identifier": "8| 4.1\n        a| 2007\n        b| 1",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 4.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 2007"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1189447350
+    },
+    {
+      "Identifier": "8| 4.2\n        a| 2007\n        b| 2",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 4.2"
+        },
+        {
+          "Key": "a",
+          "Value": " 2007"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1592731877
+    },
+    {
+      "Identifier": "8| 4.3\n        a| 2008\n        b| 3",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 4.3"
+        },
+        {
+          "Key": "a",
+          "Value": " 2008"
+        },
+        {
+          "Key": "b",
+          "Value": " 3"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 26647931
+    },
+    {
+      "Identifier": "8| 4.4\n        a| 2008\n        b| 4",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 4.4"
+        },
+        {
+          "Key": "a",
+          "Value": " 2008"
+        },
+        {
+          "Key": "b",
+          "Value": " 4"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 786162818
+    },
+    {
+      "Identifier": "8| 4.5\n        a| 2009\n        b| 5",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 4.5"
+        },
+        {
+          "Key": "a",
+          "Value": " 2009"
+        },
+        {
+          "Key": "b",
+          "Value": " 5"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -779921124
+    },
+    {
+      "Identifier": "8| 4.6\n        a| 2009\n        b| 6",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 4.6"
+        },
+        {
+          "Key": "a",
+          "Value": " 2009"
+        },
+        {
+          "Key": "b",
+          "Value": " 6"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -376636597
+    },
+    {
+      "Identifier": "8| 4.7\n        a| 2010\n        b| 7",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 4.7"
+        },
+        {
+          "Key": "a",
+          "Value": " 2010"
+        },
+        {
+          "Key": "b",
+          "Value": " 7"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1808830481
+    }
+  ],
+  "StanfordLibraryId": 7144024,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|STACKS",
+    "GREEN|CURRENTPER"
+  ],
+  "LastUpdatedTimestamp": "2015-12-03T05:45:47.0493947-08:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " (yr.)"
+        },
+        {
+          "Key": "b",
+          "Value": " no."
+        },
+        {
+          "Key": "u",
+          "Value": " 300"
+        },
+        {
+          "Key": "v",
+          "Value": " c"
+        }
+      ]
+    },
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3"
+        },
+        {
+          "Key": "a",
+          "Value": " (yr.)"
+        },
+        {
+          "Key": "b",
+          "Value": " no."
+        },
+        {
+          "Key": "v",
+          "Value": " c"
+        }
+      ]
+    },
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 4"
+        },
+        {
+          "Key": "a",
+          "Value": " (yr.)"
+        },
+        {
+          "Key": "b",
+          "Value": " no."
+        },
+        {
+          "Key": "u",
+          "Value": " 2"
+        },
+        {
+          "Key": "v",
+          "Value": " c"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": [
+    "Every four months"
+  ]
+}

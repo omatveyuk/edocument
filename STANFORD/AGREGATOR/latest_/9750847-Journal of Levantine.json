@@ -1,0 +1,326 @@
+{
+  "CatalogTitle": "journal of levantine studies ",
+  "OriginalTitle": "Journal of Levantine studies",
+  "CallNumber": "DS41 .J684",
+  "Issues": [
+    {
+      "Identifier": "8| 3.1\n        a| 1\n        b| 1\n        i| 2011\n        j| SUM",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 1"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2011"
+        },
+        {
+          "Key": "j",
+          "Value": " SUM"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1504656785
+    },
+    {
+      "Identifier": "8| 3.2\n        a| 1\n        b| 2\n        i| 2011\n        j| WIN",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3.2"
+        },
+        {
+          "Key": "a",
+          "Value": " 1"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        },
+        {
+          "Key": "i",
+          "Value": " 2011"
+        },
+        {
+          "Key": "j",
+          "Value": " WIN"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1374972712
+    },
+    {
+      "Identifier": "8| 3.3\n        a| 2\n        b| 1\n        i| 2012\n        j| SUM",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3.3"
+        },
+        {
+          "Key": "a",
+          "Value": " 2"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2012"
+        },
+        {
+          "Key": "j",
+          "Value": " SUM"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -577880777
+    },
+    {
+      "Identifier": "8| 3.4\n        a| 2\n        b| 2\n        i| 2012\n        j| WIN",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3.4"
+        },
+        {
+          "Key": "a",
+          "Value": " 2"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        },
+        {
+          "Key": "i",
+          "Value": " 2012"
+        },
+        {
+          "Key": "j",
+          "Value": " WIN"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -707564854
+    },
+    {
+      "Identifier": "8| 3.5\n        a| 3\n        b| 1\n        i| 2013\n        j| SUM",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3.5"
+        },
+        {
+          "Key": "a",
+          "Value": " 3"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2013"
+        },
+        {
+          "Key": "j",
+          "Value": " SUM"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 803814616
+    },
+    {
+      "Identifier": "8| 3.6\n        a| 3\n        b| 2\n        i| 2013\n        j| WIN",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3.6"
+        },
+        {
+          "Key": "a",
+          "Value": " 3"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        },
+        {
+          "Key": "i",
+          "Value": " 2013"
+        },
+        {
+          "Key": "j",
+          "Value": " WIN"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 674130537
+    },
+    {
+      "Identifier": "8| 3.7\n        a| 4\n        b| 1\n        i| 2014\n        j| SUM",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3.7"
+        },
+        {
+          "Key": "a",
+          "Value": " 4"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2014"
+        },
+        {
+          "Key": "j",
+          "Value": " SUM"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1278722701
+    },
+    {
+      "Identifier": "8| 3.8\n        a| 4\n        b| 2\n        i| 2014\n        j| WIN",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3.8"
+        },
+        {
+          "Key": "a",
+          "Value": " 4"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        },
+        {
+          "Key": "i",
+          "Value": " 2014"
+        },
+        {
+          "Key": "j",
+          "Value": " WIN"
+        }
+      ],
+      "Timestamp": "2016-01-21T03:00:02.2123657-08:00",
+      "Signature": -1408406778
+    },
+    {
+      "Identifier": "8| 3.9\n        a| 5\n        b| 1\n        i| 2015\n        j| SUM",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3.9"
+        },
+        {
+          "Key": "a",
+          "Value": " 5"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2015"
+        },
+        {
+          "Key": "j",
+          "Value": " SUM"
+        }
+      ],
+      "Timestamp": "2016-10-25T04:14:37.6284509-07:00",
+      "Signature": 673922482
+    }
+  ],
+  "StanfordLibraryId": 9750847,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|STACKS",
+    "GREEN|CURRENTPER"
+  ],
+  "LastUpdatedTimestamp": "2016-10-25T04:14:37.6284509-07:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " v."
+        },
+        {
+          "Key": "b",
+          "Value": " no."
+        },
+        {
+          "Key": "u",
+          "Value": " 2"
+        },
+        {
+          "Key": "v",
+          "Value": " r"
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        },
+        {
+          "Key": "j",
+          "Value": " (season)"
+        }
+      ]
+    },
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3"
+        },
+        {
+          "Key": "a",
+          "Value": " v."
+        },
+        {
+          "Key": "b",
+          "Value": " no."
+        },
+        {
+          "Key": "u",
+          "Value": " 2"
+        },
+        {
+          "Key": "v",
+          "Value": " r"
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        },
+        {
+          "Key": "j",
+          "Value": " (unit)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": [
+    "Semiannual"
+  ]
+}

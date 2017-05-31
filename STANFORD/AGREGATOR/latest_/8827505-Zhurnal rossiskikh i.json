@@ -1,0 +1,295 @@
+{
+  "CatalogTitle": "880 01 zhurnal rossiĭskikh i vostochnoevropeĭskikh istoricheskikh issledovaniĭ ",
+  "OriginalTitle": "Zhurnal rossi?skikh i vostochnoevrope?skikh istoricheskikh issledovani?",
+  "CallNumber": "DK266 .A2 Z48",
+  "Issues": [
+    {
+      "Identifier": "8| 2.1\n        a| 1\n        i| 2010\n        j| 04/06",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2010"
+        },
+        {
+          "Key": "j",
+          "Value": " 04/06"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -629794505
+    },
+    {
+      "Identifier": "8| 2.2\n        a| 2/3\n        i| 2010\n        j| 07/12",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.2"
+        },
+        {
+          "Key": "a",
+          "Value": " 2/3"
+        },
+        {
+          "Key": "i",
+          "Value": " 2010"
+        },
+        {
+          "Key": "j",
+          "Value": " 07/12"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1267240104
+    },
+    {
+      "Identifier": "8| 5.1\n        a| 2011\n        b| 1\n        c| 3\n        i| 2011",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 5.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 2011"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        },
+        {
+          "Key": "c",
+          "Value": " 3"
+        },
+        {
+          "Key": "i",
+          "Value": " 2011"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1692289936
+    },
+    {
+      "Identifier": "8| 5.2\n        a| 2012\n        b| 1\n        c| 4\n        i| 2012",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 5.2"
+        },
+        {
+          "Key": "a",
+          "Value": " 2012"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        },
+        {
+          "Key": "c",
+          "Value": " 4"
+        },
+        {
+          "Key": "i",
+          "Value": " 2012"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1692229550
+    },
+    {
+      "Identifier": "8| 5.3\n        a| 2014\n        b| 1\n        c| 5\n        i| 2014",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 5.3"
+        },
+        {
+          "Key": "a",
+          "Value": " 2014"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        },
+        {
+          "Key": "c",
+          "Value": " 5"
+        },
+        {
+          "Key": "i",
+          "Value": " 2014"
+        }
+      ],
+      "Timestamp": "2016-08-09T03:41:42.6265025-07:00",
+      "Signature": 1692092039
+    },
+    {
+      "Identifier": "8| 5.4\n        a| 2015\n        b| 1\n        c| 6\n        i| 2015",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 5.4"
+        },
+        {
+          "Key": "a",
+          "Value": " 2015"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        },
+        {
+          "Key": "c",
+          "Value": " 6"
+        },
+        {
+          "Key": "i",
+          "Value": " 2015"
+        }
+      ],
+      "Timestamp": "2016-08-09T03:41:42.6265025-07:00",
+      "Signature": 1692023271
+    }
+  ],
+  "StanfordLibraryId": 8827505,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|STACKS",
+    "GREEN|CURRENTPER"
+  ],
+  "LastUpdatedTimestamp": "2016-08-09T03:41:42.6265025-07:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " no."
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        },
+        {
+          "Key": "j",
+          "Value": " (month)"
+        }
+      ]
+    },
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3"
+        },
+        {
+          "Key": "a",
+          "Value": " (yr.)"
+        },
+        {
+          "Key": "b",
+          "Value": " no."
+        },
+        {
+          "Key": "u",
+          "Value": " 4"
+        },
+        {
+          "Key": "v",
+          "Value": " r"
+        },
+        {
+          "Key": "c",
+          "Value": " =no."
+        },
+        {
+          "Key": "v",
+          "Value": " r"
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        }
+      ]
+    },
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 4"
+        },
+        {
+          "Key": "a",
+          "Value": " (yr.)"
+        },
+        {
+          "Key": "b",
+          "Value": " no."
+        },
+        {
+          "Key": "u",
+          "Value": " 4"
+        },
+        {
+          "Key": "v",
+          "Value": " r"
+        },
+        {
+          "Key": "c",
+          "Value": " =no."
+        },
+        {
+          "Key": "v",
+          "Value": " c"
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        }
+      ]
+    },
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 5"
+        },
+        {
+          "Key": "a",
+          "Value": " (yr.)"
+        },
+        {
+          "Key": "b",
+          "Value": " no."
+        },
+        {
+          "Key": "v",
+          "Value": " r"
+        },
+        {
+          "Key": "c",
+          "Value": " =no."
+        },
+        {
+          "Key": "v",
+          "Value": " c"
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": []
+}

@@ -1,0 +1,59 @@
+{
+  "CatalogTitle": "prime minister   the newsletter of the office of the prime minister ",
+  "OriginalTitle": "Prime Minister",
+  "CallNumber": "JQ2921 .A1 P75 F",
+  "Issues": [
+    {
+      "Identifier": "8| 2.1\n        a| 2010\n        b| 08\n        c| 4",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 2010"
+        },
+        {
+          "Key": "b",
+          "Value": " 08"
+        },
+        {
+          "Key": "c",
+          "Value": " 4"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1474174997
+    }
+  ],
+  "StanfordLibraryId": 10606054,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|CURRENTPER"
+  ],
+  "LastUpdatedTimestamp": "2015-12-03T05:45:47.0493947-08:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " (year)"
+        },
+        {
+          "Key": "b",
+          "Value": " (month)"
+        },
+        {
+          "Key": "c",
+          "Value": " (day)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": []
+}

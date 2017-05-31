@@ -1,0 +1,1380 @@
+{
+  "CatalogTitle": "acme ",
+  "OriginalTitle": "Acme : annali della Facolt� di lettere e filosofia dell'Universit� degli statale di Milano",
+  "CallNumber": "AS221 .A3",
+  "Issues": [
+    {
+      "Identifier": "8| 2.1\n        a| 52\n        b| 1\n        i| 1999\n        j| 01/04",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 52"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        },
+        {
+          "Key": "i",
+          "Value": " 1999"
+        },
+        {
+          "Key": "j",
+          "Value": " 01/04"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 344682531
+    },
+    {
+      "Identifier": "8| 2.2\n        a| 52\n        b| 2\n        i| 1999\n        j| MAY/AUG",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.2"
+        },
+        {
+          "Key": "a",
+          "Value": " 52"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        },
+        {
+          "Key": "i",
+          "Value": " 1999"
+        },
+        {
+          "Key": "j",
+          "Value": " MAY/AUG"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -355853121
+    },
+    {
+      "Identifier": "8| 2.3\n        a| 52\n        b| 3\n        i| 1999\n        j| SEP/DEC",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.3"
+        },
+        {
+          "Key": "a",
+          "Value": " 52"
+        },
+        {
+          "Key": "b",
+          "Value": " 3"
+        },
+        {
+          "Key": "i",
+          "Value": " 1999"
+        },
+        {
+          "Key": "j",
+          "Value": " SEP/DEC"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 236091248
+    },
+    {
+      "Identifier": "8| 2.4\n        a| 53\n        b| 1\n        i| 2000\n        j| JAN/APR",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.4"
+        },
+        {
+          "Key": "a",
+          "Value": " 53"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2000"
+        },
+        {
+          "Key": "j",
+          "Value": " JAN/APR"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1519359283
+    },
+    {
+      "Identifier": "8| 2.5\n        a| 53\n        b| 2\n        i| 2000\n        j| MAY/AUG",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.5"
+        },
+        {
+          "Key": "a",
+          "Value": " 53"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        },
+        {
+          "Key": "i",
+          "Value": " 2000"
+        },
+        {
+          "Key": "j",
+          "Value": " MAY/AUG"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1230249961
+    },
+    {
+      "Identifier": "8| 2.6\n        a| 53\n        b| 3\n        i| 2000\n        j| SEP/DEC",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.6"
+        },
+        {
+          "Key": "a",
+          "Value": " 53"
+        },
+        {
+          "Key": "b",
+          "Value": " 3"
+        },
+        {
+          "Key": "i",
+          "Value": " 2000"
+        },
+        {
+          "Key": "j",
+          "Value": " SEP/DEC"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1308263296
+    },
+    {
+      "Identifier": "8| 2.7\n        a| 54\n        b| 1\n        i| 2001\n        j| JAN/APR",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.7"
+        },
+        {
+          "Key": "a",
+          "Value": " 54"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2001"
+        },
+        {
+          "Key": "j",
+          "Value": " JAN/APR"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -253842498
+    },
+    {
+      "Identifier": "8| 2.8\n        a| 54\n        b| 2\n        i| 2001\n        j| 05/08",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.8"
+        },
+        {
+          "Key": "a",
+          "Value": " 54"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        },
+        {
+          "Key": "i",
+          "Value": " 2001"
+        },
+        {
+          "Key": "j",
+          "Value": " 05/08"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 839639603
+    },
+    {
+      "Identifier": "8| 2.9\n        a| 54\n        b| 3\n        i| 2001\n        j| SEP/DEC",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.9"
+        },
+        {
+          "Key": "a",
+          "Value": " 54"
+        },
+        {
+          "Key": "b",
+          "Value": " 3"
+        },
+        {
+          "Key": "i",
+          "Value": " 2001"
+        },
+        {
+          "Key": "j",
+          "Value": " SEP/DEC"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1704016783
+    },
+    {
+      "Identifier": "8| 2.10\n        a| 55\n        b| 1\n        i| 2002\n        j| JAN/APR",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.10"
+        },
+        {
+          "Key": "a",
+          "Value": " 55"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2002"
+        },
+        {
+          "Key": "j",
+          "Value": " JAN/APR"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -278264509
+    },
+    {
+      "Identifier": "8| 2.11\n        a| 55\n        b| 2\n        i| 2002\n        j| MAY/AUG",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.11"
+        },
+        {
+          "Key": "a",
+          "Value": " 55"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        },
+        {
+          "Key": "i",
+          "Value": " 2002"
+        },
+        {
+          "Key": "j",
+          "Value": " MAY/AUG"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1698544223
+    },
+    {
+      "Identifier": "8| 2.12\n        a| 55\n        b| 3\n        i| 2002\n        j| SEP/DEC",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.12"
+        },
+        {
+          "Key": "a",
+          "Value": " 55"
+        },
+        {
+          "Key": "b",
+          "Value": " 3"
+        },
+        {
+          "Key": "i",
+          "Value": " 2002"
+        },
+        {
+          "Key": "j",
+          "Value": " SEP/DEC"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -2136072714
+    },
+    {
+      "Identifier": "8| 2.13\n        a| 56\n        b| 1\n        i| 2003\n        j| JAN/APR",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.13"
+        },
+        {
+          "Key": "a",
+          "Value": " 56"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2003"
+        },
+        {
+          "Key": "j",
+          "Value": " JAN/APR"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1662596956
+    },
+    {
+      "Identifier": "8| 2.14\n        a| 56\n        b| 2\n        i| 2003\n        j| MAY/AUG",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.14"
+        },
+        {
+          "Key": "a",
+          "Value": " 56"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        },
+        {
+          "Key": "i",
+          "Value": " 2003"
+        },
+        {
+          "Key": "j",
+          "Value": " MAY/AUG"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -651367304
+    },
+    {
+      "Identifier": "8| 2.15\n        a| 56\n        b| 3\n        i| 2003\n        j| SEP/DEC",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.15"
+        },
+        {
+          "Key": "a",
+          "Value": " 56"
+        },
+        {
+          "Key": "b",
+          "Value": " 3"
+        },
+        {
+          "Key": "i",
+          "Value": " 2003"
+        },
+        {
+          "Key": "j",
+          "Value": " SEP/DEC"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1350782991
+    },
+    {
+      "Identifier": "8| 2.16\n        a| 57\n        b| 1\n        i| 2004\n        j| JAN/APR",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.16"
+        },
+        {
+          "Key": "a",
+          "Value": " 57"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2004"
+        },
+        {
+          "Key": "j",
+          "Value": " JAN/APR"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1427673313
+    },
+    {
+      "Identifier": "8| 2.17\n        a| 57\n        b| 2\n        i| 2004\n        j| 05/08",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.17"
+        },
+        {
+          "Key": "a",
+          "Value": " 57"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        },
+        {
+          "Key": "i",
+          "Value": " 2004"
+        },
+        {
+          "Key": "j",
+          "Value": " 05/08"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1898960944
+    },
+    {
+      "Identifier": "8| 2.18\n        a| 58\n        b| 1\n        i| 2005\n        j| 01/04",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.18"
+        },
+        {
+          "Key": "a",
+          "Value": " 58"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2005"
+        },
+        {
+          "Key": "j",
+          "Value": " 01/04"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1499664562
+    },
+    {
+      "Identifier": "8| 2.19\n        a| 58\n        b| 2\n        i| 2005\n        j| MAY/AUG",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.19"
+        },
+        {
+          "Key": "a",
+          "Value": " 58"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        },
+        {
+          "Key": "i",
+          "Value": " 2005"
+        },
+        {
+          "Key": "j",
+          "Value": " MAY/AUG"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -898929634
+    },
+    {
+      "Identifier": "8| 2.20\n        a| 58\n        b| 3\n        i| 2005\n        j| SEP/DEC",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.20"
+        },
+        {
+          "Key": "a",
+          "Value": " 58"
+        },
+        {
+          "Key": "b",
+          "Value": " 3"
+        },
+        {
+          "Key": "i",
+          "Value": " 2005"
+        },
+        {
+          "Key": "j",
+          "Value": " SEP/DEC"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 720883637
+    },
+    {
+      "Identifier": "8| 2.21\n        a| 59\n        b| 1\n        i| 2006\n        j| JAN/APR",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.21"
+        },
+        {
+          "Key": "a",
+          "Value": " 59"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2006"
+        },
+        {
+          "Key": "j",
+          "Value": " JAN/APR"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -2070363385
+    },
+    {
+      "Identifier": "8| 2.22\n        a| 59\n        b| 2\n        i| 2006\n        j| MAY/AUG",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.22"
+        },
+        {
+          "Key": "a",
+          "Value": " 59"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        },
+        {
+          "Key": "i",
+          "Value": " 2006"
+        },
+        {
+          "Key": "j",
+          "Value": " MAY/AUG"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1223456803
+    },
+    {
+      "Identifier": "8| 2.23\n        a| 59\n        b| 3\n        i| 2006\n        j| SEP/DEC",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.23"
+        },
+        {
+          "Key": "a",
+          "Value": " 59"
+        },
+        {
+          "Key": "b",
+          "Value": " 3"
+        },
+        {
+          "Key": "i",
+          "Value": " 2006"
+        },
+        {
+          "Key": "j",
+          "Value": " SEP/DEC"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1115890758
+    },
+    {
+      "Identifier": "8| 2.24\n        a| 60\n        b| 1\n        i| 2007\n        j| JAN/APR",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.24"
+        },
+        {
+          "Key": "a",
+          "Value": " 60"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2007"
+        },
+        {
+          "Key": "j",
+          "Value": " JAN/APR"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1780944230
+    },
+    {
+      "Identifier": "8| 2.25\n        a| 60\n        b| 2\n        i| 2007\n        j| 05/08",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.25"
+        },
+        {
+          "Key": "a",
+          "Value": " 60"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        },
+        {
+          "Key": "i",
+          "Value": " 2007"
+        },
+        {
+          "Key": "j",
+          "Value": " 05/08"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 2138024615
+    },
+    {
+      "Identifier": "8| 2.26\n        a| 60\n        b| 3\n        i| 2007\n        j| 09/12",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.26"
+        },
+        {
+          "Key": "a",
+          "Value": " 60"
+        },
+        {
+          "Key": "b",
+          "Value": " 3"
+        },
+        {
+          "Key": "i",
+          "Value": " 2007"
+        },
+        {
+          "Key": "j",
+          "Value": " 09/12"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1718948559
+    },
+    {
+      "Identifier": "8| 2.27\n        a| 61\n        b| 1\n        i| 2009\n        j| JAN/APR",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.27"
+        },
+        {
+          "Key": "a",
+          "Value": " 61"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2009"
+        },
+        {
+          "Key": "j",
+          "Value": " JAN/APR"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1250997217
+    },
+    {
+      "Identifier": "8| 2.28\n        a| 61\n        b| 2\n        i| 2008\n        j| MAY/AUG",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.28"
+        },
+        {
+          "Key": "a",
+          "Value": " 61"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        },
+        {
+          "Key": "i",
+          "Value": " 2008"
+        },
+        {
+          "Key": "j",
+          "Value": " MAY/AUG"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 2024014011
+    },
+    {
+      "Identifier": "8| 2.29\n        a| 61\n        b| 3\n        i| 2008\n        j| 08/12",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.29"
+        },
+        {
+          "Key": "a",
+          "Value": " 61"
+        },
+        {
+          "Key": "b",
+          "Value": " 3"
+        },
+        {
+          "Key": "i",
+          "Value": " 2008"
+        },
+        {
+          "Key": "j",
+          "Value": " 08/12"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1806593107
+    },
+    {
+      "Identifier": "8| 2.30\n        a| 62\n        b| 1\n        i| 2009\n        j| 01/04",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.30"
+        },
+        {
+          "Key": "a",
+          "Value": " 62"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2009"
+        },
+        {
+          "Key": "j",
+          "Value": " 01/04"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -933296852
+    },
+    {
+      "Identifier": "8| 2.31\n        a| 62\n        b| 2\n        i| 2009\n        j| MAY/AUG",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.31"
+        },
+        {
+          "Key": "a",
+          "Value": " 62"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        },
+        {
+          "Key": "i",
+          "Value": " 2009"
+        },
+        {
+          "Key": "j",
+          "Value": " MAY/AUG"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 964675124
+    },
+    {
+      "Identifier": "8| 2.32\n        a| 62\n        b| 3\n        i| 2009\n        j| SEP/DEC",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.32"
+        },
+        {
+          "Key": "a",
+          "Value": " 62"
+        },
+        {
+          "Key": "b",
+          "Value": " 3"
+        },
+        {
+          "Key": "i",
+          "Value": " 2009"
+        },
+        {
+          "Key": "j",
+          "Value": " SEP/DEC"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1390422379
+    },
+    {
+      "Identifier": "8| 2.33\n        a| 63\n        b| 1\n        i| 2010\n        j| JAN/APR",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.33"
+        },
+        {
+          "Key": "a",
+          "Value": " 63"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2010"
+        },
+        {
+          "Key": "j",
+          "Value": " JAN/APR"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1800442084
+    },
+    {
+      "Identifier": "8| 2.34\n        a| 63\n        b| 2\n        i| 2010\n        j| MAY/AUG",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.34"
+        },
+        {
+          "Key": "a",
+          "Value": " 63"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        },
+        {
+          "Key": "i",
+          "Value": " 2010"
+        },
+        {
+          "Key": "j",
+          "Value": " MAY/AUG"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 945105980
+    },
+    {
+      "Identifier": "8| 2.35\n        a| 63\n        b| 3\n        i| 2010\n        j| SEP/DEC",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.35"
+        },
+        {
+          "Key": "a",
+          "Value": " 63"
+        },
+        {
+          "Key": "b",
+          "Value": " 3"
+        },
+        {
+          "Key": "i",
+          "Value": " 2010"
+        },
+        {
+          "Key": "j",
+          "Value": " SEP/DEC"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1035699949
+    },
+    {
+      "Identifier": "8| 2.36\n        a| 64\n        b| 1\n        i| 2011\n        j| JAN/APR",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.36"
+        },
+        {
+          "Key": "a",
+          "Value": " 64"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2011"
+        },
+        {
+          "Key": "j",
+          "Value": " JAN/APR"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -660885491
+    },
+    {
+      "Identifier": "8| 2.37\n        a| 64\n        b| 2\n        i| 2011\n        j| MAY/AUG",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.37"
+        },
+        {
+          "Key": "a",
+          "Value": " 64"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        },
+        {
+          "Key": "i",
+          "Value": " 2011"
+        },
+        {
+          "Key": "j",
+          "Value": " MAY/AUG"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 2080468269
+    },
+    {
+      "Identifier": "8| 2.38\n        a| 64\n        b| 3\n        i| 2011\n        j| SEP/DEC",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.38"
+        },
+        {
+          "Key": "a",
+          "Value": " 64"
+        },
+        {
+          "Key": "b",
+          "Value": " 3"
+        },
+        {
+          "Key": "i",
+          "Value": " 2011"
+        },
+        {
+          "Key": "j",
+          "Value": " SEP/DEC"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -2136356898
+    },
+    {
+      "Identifier": "8| 2.39\n        a| 65\n        b| 1\n        i| 2012\n        j| JAN/APR",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.39"
+        },
+        {
+          "Key": "a",
+          "Value": " 65"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2012"
+        },
+        {
+          "Key": "j",
+          "Value": " JAN/APR"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 262998418
+    },
+    {
+      "Identifier": "8| 2.40\n        a| 65\n        b| 2\n        i| 2012\n        j| MAY/AUG",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.40"
+        },
+        {
+          "Key": "a",
+          "Value": " 65"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        },
+        {
+          "Key": "i",
+          "Value": " 2012"
+        },
+        {
+          "Key": "j",
+          "Value": " MAY/AUG"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -2042968398
+    },
+    {
+      "Identifier": "8| 2.41\n        a| 65\n        b| 3\n        i| 2012\n        j| SEP/DEC",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.41"
+        },
+        {
+          "Key": "a",
+          "Value": " 65"
+        },
+        {
+          "Key": "b",
+          "Value": " 3"
+        },
+        {
+          "Key": "i",
+          "Value": " 2012"
+        },
+        {
+          "Key": "j",
+          "Value": " SEP/DEC"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1569513117
+    },
+    {
+      "Identifier": "8| 2.42\n        a| 66\n        b| 1/2\n        i| 2013\n        j| 01/12",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.42"
+        },
+        {
+          "Key": "a",
+          "Value": " 66"
+        },
+        {
+          "Key": "b",
+          "Value": " 1/2"
+        },
+        {
+          "Key": "i",
+          "Value": " 2013"
+        },
+        {
+          "Key": "j",
+          "Value": " 01/12"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -582531894
+    },
+    {
+      "Identifier": "8| 2.43\n        a| 67\n        b| 1\n        i| 2014\n        j| JAN/JUN",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.43"
+        },
+        {
+          "Key": "a",
+          "Value": " 67"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2014"
+        },
+        {
+          "Key": "j",
+          "Value": " JAN/JUN"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1956473549
+    },
+    {
+      "Identifier": "8| 2.44\n        a| 67\n        b| 2\n        i| 2014\n        j| DEC",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.44"
+        },
+        {
+          "Key": "a",
+          "Value": " 67"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        },
+        {
+          "Key": "i",
+          "Value": " 2014"
+        },
+        {
+          "Key": "j",
+          "Value": " DEC"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 730013139
+    },
+    {
+      "Identifier": "8| 3.1\n        a| 68\n        b| 1\n        i| 2015\n        j| 06",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 68"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2015"
+        },
+        {
+          "Key": "j",
+          "Value": " 06"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1009803454
+    },
+    {
+      "Identifier": "8| 3.2\n        a| 68\n        b| 2\n        i| 2015\n        j| 12",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3.2"
+        },
+        {
+          "Key": "a",
+          "Value": " 68"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        },
+        {
+          "Key": "i",
+          "Value": " 2015"
+        },
+        {
+          "Key": "j",
+          "Value": " 12"
+        }
+      ],
+      "Timestamp": "2016-04-29T03:00:03.135184-07:00",
+      "Signature": 946516995
+    },
+    {
+      "Identifier": "8| 3.3\n        a| 69\n        b| 1\n        i| 2016\n        j| 06",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3.3"
+        },
+        {
+          "Key": "a",
+          "Value": " 69"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2016"
+        },
+        {
+          "Key": "j",
+          "Value": " 06"
+        }
+      ],
+      "Timestamp": "2017-05-12T03:54:54.2811547-07:00",
+      "Signature": -922245155
+    },
+    {
+      "Identifier": "8| 3.4\n        a| 69\n        b| 2\n        i| 2016\n        j| 12",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3.4"
+        },
+        {
+          "Key": "a",
+          "Value": " 69"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        },
+        {
+          "Key": "i",
+          "Value": " 2016"
+        },
+        {
+          "Key": "j",
+          "Value": " 12"
+        }
+      ],
+      "Timestamp": "2017-05-12T03:54:54.2811547-07:00",
+      "Signature": 1034075294
+    }
+  ],
+  "StanfordLibraryId": 349631,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "SAL|SOUTH-MEZZ",
+    "SAL3|STACKS",
+    "GREEN|CURRENTPER"
+  ],
+  "LastUpdatedTimestamp": "2017-05-12T03:54:54.2811547-07:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " v."
+        },
+        {
+          "Key": "b",
+          "Value": " fasc."
+        },
+        {
+          "Key": "u",
+          "Value": " 3"
+        },
+        {
+          "Key": "v",
+          "Value": " r"
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        },
+        {
+          "Key": "j",
+          "Value": " (month)"
+        }
+      ]
+    },
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3"
+        },
+        {
+          "Key": "a",
+          "Value": " anno."
+        },
+        {
+          "Key": "b",
+          "Value": " n."
+        },
+        {
+          "Key": "u",
+          "Value": " 2"
+        },
+        {
+          "Key": "v",
+          "Value": " r"
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        },
+        {
+          "Key": "j",
+          "Value": " (month)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": [
+    "Semiannual"
+  ]
+}

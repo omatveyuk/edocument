@@ -1,0 +1,233 @@
+{
+  "CatalogTitle": "oecd quarterly international trade statistics   trends and indicators   oecd  organisation for economic co operation and development ",
+  "OriginalTitle": "OECD quarterly international trade statistics : trends and indicators",
+  "CallNumber": "HF91 .O652",
+  "Issues": [
+    {
+      "Identifier": "8| 2.1\n        a| 2014\n        b| 1",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 2014"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1323337397
+    },
+    {
+      "Identifier": "8| 2.2\n        a| 2014\n        b| 2",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.2"
+        },
+        {
+          "Key": "a",
+          "Value": " 2014"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1726621924
+    },
+    {
+      "Identifier": "8| 2.3\n        a| 2014\n        b| 3",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.3"
+        },
+        {
+          "Key": "a",
+          "Value": " 2014"
+        },
+        {
+          "Key": "b",
+          "Value": " 3"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 160537983
+    },
+    {
+      "Identifier": "8| 2.4\n        a| 2015\n        b| 1",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.4"
+        },
+        {
+          "Key": "a",
+          "Value": " 2015"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        }
+      ],
+      "Timestamp": "2015-12-12T03:00:00.6985756-08:00",
+      "Signature": 1323337396
+    },
+    {
+      "Identifier": "8| 2.5\n        a| 2015\n        b| 2",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.5"
+        },
+        {
+          "Key": "a",
+          "Value": " 2015"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        }
+      ],
+      "Timestamp": "2016-01-06T03:00:00.7896456-08:00",
+      "Signature": 1726621923
+    },
+    {
+      "Identifier": "8| 2.6\n        a| 2015\n        b| 3",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.6"
+        },
+        {
+          "Key": "a",
+          "Value": " 2015"
+        },
+        {
+          "Key": "b",
+          "Value": " 3"
+        }
+      ],
+      "Timestamp": "2016-03-01T03:00:01.4459956-08:00",
+      "Signature": 160537982
+    },
+    {
+      "Identifier": "8| 2.7\n        a| 2015\n        b| 4",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.7"
+        },
+        {
+          "Key": "a",
+          "Value": " 2015"
+        },
+        {
+          "Key": "b",
+          "Value": " 4"
+        }
+      ],
+      "Timestamp": "2016-06-02T12:11:34.5688442-07:00",
+      "Signature": 920052869
+    },
+    {
+      "Identifier": "8| 2.8\n        a| 2016\n        b| 1",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.8"
+        },
+        {
+          "Key": "a",
+          "Value": " 2016"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        }
+      ],
+      "Timestamp": "2016-10-20T03:56:55.3872846-07:00",
+      "Signature": 1323337399
+    },
+    {
+      "Identifier": "8| 2.9\n        a| 2016\n        b| 2",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.9"
+        },
+        {
+          "Key": "a",
+          "Value": " 2016"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        }
+      ],
+      "Timestamp": "2016-10-21T04:09:58.999902-07:00",
+      "Signature": 1726621926
+    },
+    {
+      "Identifier": "8| 2.10\n        a| 2016\n        b| 3",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.10"
+        },
+        {
+          "Key": "a",
+          "Value": " 2016"
+        },
+        {
+          "Key": "b",
+          "Value": " 3"
+        }
+      ],
+      "Timestamp": "2017-03-09T03:48:17.897778-08:00",
+      "Signature": 160537985
+    }
+  ],
+  "StanfordLibraryId": 10627226,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "SAL3|STACKS",
+    "GREEN|CURRENTPER"
+  ],
+  "LastUpdatedTimestamp": "2017-03-09T03:48:17.897778-08:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " (yr.)"
+        },
+        {
+          "Key": "b",
+          "Value": " no."
+        },
+        {
+          "Key": "u",
+          "Value": " 4"
+        },
+        {
+          "Key": "v",
+          "Value": " r"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": [
+    "Quarterly"
+  ]
+}

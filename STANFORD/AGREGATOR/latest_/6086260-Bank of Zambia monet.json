@@ -1,0 +1,73 @@
+{
+  "CatalogTitle": "bank of zambia monetary policy statement   bank of zambia ",
+  "OriginalTitle": "Bank of Zambia monetary policy statement / Bank of Zambia",
+  "CallNumber": "HG1353 .A2 F",
+  "Issues": [
+    {
+      "Identifier": "8| 2.1\n        a| 2012\n        b| JUL/DEC",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 2012"
+        },
+        {
+          "Key": "b",
+          "Value": " JUL/DEC"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -626899219
+    },
+    {
+      "Identifier": "8| 2.2\n        a| 2012\n        b| JAN/JUN",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.2"
+        },
+        {
+          "Key": "a",
+          "Value": " 2012"
+        },
+        {
+          "Key": "b",
+          "Value": " JAN/JUN"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1399462332
+    }
+  ],
+  "StanfordLibraryId": 6086260,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|CURRENTPER",
+    "GREEN|STACKS"
+  ],
+  "LastUpdatedTimestamp": "2016-01-12T13:14:38.9997006-08:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " (year)"
+        },
+        {
+          "Key": "b",
+          "Value": " (month)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": [
+    "Semiannual"
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "CatalogTitle": "880 01 baltfort   baltiĭskiĭ voenno istoricheskiĭ zhurnal   baltic military history magazine ",
+  "OriginalTitle": "BALTFORT : Balti?ski? voenno-istoricheski? zhurnal : Baltic Military History Magazine",
+  "CallNumber": "UA646.53 .B36 F",
+  "Issues": [
+    {
+      "Identifier": "8| 2.1\n        a| 2014\n        b| 4\n        i| 2014\n        j| 12",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 2014"
+        },
+        {
+          "Key": "b",
+          "Value": " 4"
+        },
+        {
+          "Key": "i",
+          "Value": " 2014"
+        },
+        {
+          "Key": "j",
+          "Value": " 12"
+        }
+      ],
+      "Timestamp": "2016-01-12T13:14:38.9997006-08:00",
+      "Signature": -1777388891
+    },
+    {
+      "Identifier": "8| 2.2\n        a| 2015\n        b| 1\n        i| 2015\n        j| 03",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.2"
+        },
+        {
+          "Key": "a",
+          "Value": " 2015"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2015"
+        },
+        {
+          "Key": "j",
+          "Value": " 03"
+        }
+      ],
+      "Timestamp": "2016-01-12T13:14:38.9997006-08:00",
+      "Signature": -1951105762
+    },
+    {
+      "Identifier": "8| 2.3\n        a| 2015\n        b| 2\n        i| 2015\n        j| 12",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.3"
+        },
+        {
+          "Key": "a",
+          "Value": " 2015"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        },
+        {
+          "Key": "i",
+          "Value": " 2015"
+        },
+        {
+          "Key": "j",
+          "Value": " 12"
+        }
+      ],
+      "Timestamp": "2016-08-03T04:07:59.5365145-07:00",
+      "Signature": -1700279054
+    },
+    {
+      "Identifier": "8| 2.4\n        a| 2016\n        b| 1\n        i| 2016\n        j| 06",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.4"
+        },
+        {
+          "Key": "a",
+          "Value": " 2016"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2016"
+        },
+        {
+          "Key": "j",
+          "Value": " 06"
+        }
+      ],
+      "Timestamp": "2016-09-29T03:43:25.6215838-07:00",
+      "Signature": -789915352
+    }
+  ],
+  "StanfordLibraryId": 8813650,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|CURRENTPER",
+    "SAL3|STACKS"
+  ],
+  "LastUpdatedTimestamp": "2016-09-29T03:43:25.6215838-07:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "b",
+          "Value": " no."
+        },
+        {
+          "Key": "u",
+          "Value": " 4"
+        },
+        {
+          "Key": "v",
+          "Value": " r"
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        },
+        {
+          "Key": "j",
+          "Value": " (month)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": [
+    "Quarterly"
+  ]
+}

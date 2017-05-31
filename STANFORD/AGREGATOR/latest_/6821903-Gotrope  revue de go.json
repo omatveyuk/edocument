@@ -1,0 +1,235 @@
+{
+  "CatalogTitle": "géotrope   revue de géographie tropicale et d environnement ",
+  "OriginalTitle": "G�otrope : revue de g�ographie tropicale et d'environnement",
+  "CallNumber": "G905 .G46",
+  "Issues": [
+    {
+      "Identifier": "8| 2.1\n        a| 4\n        i| 2005",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 4"
+        },
+        {
+          "Key": "i",
+          "Value": " 2005"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 96028021
+    },
+    {
+      "Identifier": "8| 4.1\n        a| 2011\n        b| 1",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 4.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 2011"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1323337400
+    },
+    {
+      "Identifier": "8| 4.2\n        a| 2011\n        b| 2",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 4.2"
+        },
+        {
+          "Key": "a",
+          "Value": " 2011"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1726621927
+    },
+    {
+      "Identifier": "8| 4.3\n        a| 2012\n        b| 1",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 4.3"
+        },
+        {
+          "Key": "a",
+          "Value": " 2012"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1323337403
+    },
+    {
+      "Identifier": "8| 4.4\n        a| 2012\n        b| 2",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 4.4"
+        },
+        {
+          "Key": "a",
+          "Value": " 2012"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1726621930
+    },
+    {
+      "Identifier": "8| 4.5\n        a| 2013\n        b| 1",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 4.5"
+        },
+        {
+          "Key": "a",
+          "Value": " 2013"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1323337402
+    },
+    {
+      "Identifier": "8| 4.6\n        a| 2013\n        b| 2",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 4.6"
+        },
+        {
+          "Key": "a",
+          "Value": " 2013"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1726621929
+    },
+    {
+      "Identifier": "8| 4.7\n        a| 2014\n        b| 2",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 4.7"
+        },
+        {
+          "Key": "a",
+          "Value": " 2014"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        }
+      ],
+      "Timestamp": "2016-09-09T03:56:37.0540728-07:00",
+      "Signature": 1726621924
+    }
+  ],
+  "StanfordLibraryId": 6821903,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "SAL3|STACKS",
+    "GREEN|CURRENTPER"
+  ],
+  "LastUpdatedTimestamp": "2016-09-09T03:56:37.0540728-07:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " no."
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        }
+      ]
+    },
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3"
+        },
+        {
+          "Key": "a",
+          "Value": " yr.)"
+        },
+        {
+          "Key": "b",
+          "Value": " no."
+        },
+        {
+          "Key": "u",
+          "Value": " 2"
+        },
+        {
+          "Key": "v",
+          "Value": " r"
+        }
+      ]
+    },
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 4"
+        },
+        {
+          "Key": "a",
+          "Value": " (yr.)"
+        },
+        {
+          "Key": "b",
+          "Value": " no."
+        },
+        {
+          "Key": "u",
+          "Value": " 2"
+        },
+        {
+          "Key": "v",
+          "Value": " r"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": [
+    "Two issues per year"
+  ]
+}

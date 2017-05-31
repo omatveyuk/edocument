@@ -1,0 +1,131 @@
+{
+  "CatalogTitle": "cenbanknews   the staff newsletter of central bank of nigeria ",
+  "OriginalTitle": "Cenbanknews : the staff newsletter of Central Bank of Nigeria",
+  "CallNumber": "HG3431 .A7 C45A F",
+  "Issues": [
+    {
+      "Identifier": "8| 2.1\n        a| 35\n        b| 8\n        i| 2012\n        j| 08",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 35"
+        },
+        {
+          "Key": "b",
+          "Value": " 8"
+        },
+        {
+          "Key": "i",
+          "Value": " 2012"
+        },
+        {
+          "Key": "j",
+          "Value": " 08"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1109080858
+    },
+    {
+      "Identifier": "8| 2.2\n        a| 35\n        b| 10\n        i| 2012\n        j| 10",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.2"
+        },
+        {
+          "Key": "a",
+          "Value": " 35"
+        },
+        {
+          "Key": "b",
+          "Value": " 10"
+        },
+        {
+          "Key": "i",
+          "Value": " 2012"
+        },
+        {
+          "Key": "j",
+          "Value": " 10"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -870584091
+    },
+    {
+      "Identifier": "8| 2.3\n        a| 35\n        b| 11\n        i| 2012\n        j| 11",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.3"
+        },
+        {
+          "Key": "a",
+          "Value": " 35"
+        },
+        {
+          "Key": "b",
+          "Value": " 11"
+        },
+        {
+          "Key": "i",
+          "Value": " 2012"
+        },
+        {
+          "Key": "j",
+          "Value": " 11"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1084624667
+    }
+  ],
+  "StanfordLibraryId": 10291343,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|CURRENTPER"
+  ],
+  "LastUpdatedTimestamp": "2015-12-03T05:45:47.0493947-08:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " v."
+        },
+        {
+          "Key": "b",
+          "Value": " no."
+        },
+        {
+          "Key": "u",
+          "Value": " 12"
+        },
+        {
+          "Key": "v",
+          "Value": " r"
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        },
+        {
+          "Key": "j",
+          "Value": " (month)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": [
+    "Monthly"
+  ]
+}

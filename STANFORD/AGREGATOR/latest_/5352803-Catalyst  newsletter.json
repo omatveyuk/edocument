@@ -1,0 +1,159 @@
+{
+  "CatalogTitle": "catalyst   newsletter of the catholic league for religious and civil rights ",
+  "OriginalTitle": "Catalyst : newsletter of the Catholic League for Religious and Civil Rights",
+  "CallNumber": "BX801 .C33",
+  "Issues": [
+    {
+      "Identifier": "8| 2.1\n        a| 28\n        b| 7\n        i| 2001\n        j| 09",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 28"
+        },
+        {
+          "Key": "b",
+          "Value": " 7"
+        },
+        {
+          "Key": "i",
+          "Value": " 2001"
+        },
+        {
+          "Key": "j",
+          "Value": " 09"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -170420533
+    },
+    {
+      "Identifier": "8| 2.2\n        a| 28\n        b| 8\n        i| 2001\n        j| 10",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.2"
+        },
+        {
+          "Key": "a",
+          "Value": " 28"
+        },
+        {
+          "Key": "b",
+          "Value": " 8"
+        },
+        {
+          "Key": "i",
+          "Value": " 2001"
+        },
+        {
+          "Key": "j",
+          "Value": " 10"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1785891263
+    },
+    {
+      "Identifier": "8| 2.3\n        a| 28\n        b| 9\n        i| 2001\n        j| 11",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.3"
+        },
+        {
+          "Key": "a",
+          "Value": " 28"
+        },
+        {
+          "Key": "b",
+          "Value": " 9"
+        },
+        {
+          "Key": "i",
+          "Value": " 2001"
+        },
+        {
+          "Key": "j",
+          "Value": " 11"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1785888093
+    },
+    {
+      "Identifier": "8| 2.4\n        a| 28\n        b| 10\n        i| 2001\n        j| 12",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.4"
+        },
+        {
+          "Key": "a",
+          "Value": " 28"
+        },
+        {
+          "Key": "b",
+          "Value": " 10"
+        },
+        {
+          "Key": "i",
+          "Value": " 2001"
+        },
+        {
+          "Key": "j",
+          "Value": " 12"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1356542905
+    }
+  ],
+  "StanfordLibraryId": 5352803,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|STACKS",
+    "GREEN|CURRENTPER"
+  ],
+  "LastUpdatedTimestamp": "2015-12-03T05:45:47.0493947-08:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " v."
+        },
+        {
+          "Key": "b",
+          "Value": " no."
+        },
+        {
+          "Key": "u",
+          "Value": " 10"
+        },
+        {
+          "Key": "v",
+          "Value": " r"
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        },
+        {
+          "Key": "j",
+          "Value": " (month)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": [
+    "Monthly"
+  ]
+}

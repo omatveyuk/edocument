@@ -1,0 +1,81 @@
+{
+  "CatalogTitle": "pr review   the journal of the public relations consultants association of nigeria ",
+  "OriginalTitle": "PR review : the journal of the Public Relations Consultants Association of Nigeria",
+  "CallNumber": "HD59.6 .N6 P7 F",
+  "Issues": [
+    {
+      "Identifier": "8| 2.1\n        a| 2002\n        b| 1",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 2002"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1189447355
+    },
+    {
+      "Identifier": "8| 2.2\n        a| 2009\n        b| 1",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.2"
+        },
+        {
+          "Key": "a",
+          "Value": " 2009"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1189447344
+    }
+  ],
+  "StanfordLibraryId": 6307322,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|STACKS",
+    "GREEN|CURRENTPER"
+  ],
+  "LastUpdatedTimestamp": "2015-12-03T05:45:47.0493947-08:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " (yr.)"
+        },
+        {
+          "Key": "b",
+          "Value": " no."
+        },
+        {
+          "Key": "u",
+          "Value": " 4"
+        },
+        {
+          "Key": "v",
+          "Value": " c"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": [
+    "Quarterly"
+  ]
+}

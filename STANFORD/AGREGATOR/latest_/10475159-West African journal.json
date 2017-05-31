@@ -1,0 +1,61 @@
+{
+  "CatalogTitle": "west african journal of research for health ",
+  "OriginalTitle": "West African journal of research for health",
+  "CallNumber": "RA552 .A358 W47",
+  "Issues": [
+    {
+      "Identifier": "8| 2.1\n        a| 0\n        i| 2013\n        j| 06",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 0"
+        },
+        {
+          "Key": "i",
+          "Value": " 2013"
+        },
+        {
+          "Key": "j",
+          "Value": " 06"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1161013360
+    }
+  ],
+  "StanfordLibraryId": 10475159,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|CURRENTPER"
+  ],
+  "LastUpdatedTimestamp": "2015-12-03T05:45:47.0493947-08:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " v."
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        },
+        {
+          "Key": "j",
+          "Value": " (month)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": [
+    "Semiannual"
+  ]
+}

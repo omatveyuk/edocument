@@ -1,0 +1,205 @@
+{
+  "CatalogTitle": "chimurenga chronic ",
+  "OriginalTitle": "Chimurenga chronic",
+  "CallNumber": "PR9344.5 .C47 FF",
+  "Issues": [
+    {
+      "Identifier": "8| 2.1\n        a| 2008\n        b| 05",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 2008"
+        },
+        {
+          "Key": "b",
+          "Value": " 05"
+        }
+      ],
+      "Timestamp": "2017-03-20T03:40:11.2044356-07:00",
+      "Signature": 620696086
+    },
+    {
+      "Identifier": "8| 2.2\n        a| 2013\n        b| 03",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.2"
+        },
+        {
+          "Key": "a",
+          "Value": " 2013"
+        },
+        {
+          "Key": "b",
+          "Value": " 03"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -2125589985
+    },
+    {
+      "Identifier": "8| 2.3\n        a| 2013\n        b| 04",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.3"
+        },
+        {
+          "Key": "a",
+          "Value": " 2013"
+        },
+        {
+          "Key": "b",
+          "Value": " 04"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -933948897
+    },
+    {
+      "Identifier": "8| 2.4\n        a| 2013\n        b| 08",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.4"
+        },
+        {
+          "Key": "a",
+          "Value": " 2013"
+        },
+        {
+          "Key": "b",
+          "Value": " 08"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1698622945
+    },
+    {
+      "Identifier": "8| 2.5\n        a| 2013\n        b| 11",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.5"
+        },
+        {
+          "Key": "a",
+          "Value": " 2013"
+        },
+        {
+          "Key": "b",
+          "Value": " 11"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 220956346
+    },
+    {
+      "Identifier": "8| 2.6\n        a| 2014\n        b| 07",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.6"
+        },
+        {
+          "Key": "a",
+          "Value": " 2014"
+        },
+        {
+          "Key": "b",
+          "Value": " 07"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1404703258
+    },
+    {
+      "Identifier": "8| 2.7\n        a| 2015\n        b| 02",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.7"
+        },
+        {
+          "Key": "a",
+          "Value": " 2015"
+        },
+        {
+          "Key": "b",
+          "Value": " 02"
+        }
+      ],
+      "Timestamp": "2017-03-20T03:40:11.2044356-07:00",
+      "Signature": 213062169
+    },
+    {
+      "Identifier": "8| 2.8\n        a| 2015\n        b| 03",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.8"
+        },
+        {
+          "Key": "a",
+          "Value": " 2015"
+        },
+        {
+          "Key": "b",
+          "Value": " 03"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -2125589991
+    },
+    {
+      "Identifier": "8| 2.9\n        a| 2016\n        b| 04",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.9"
+        },
+        {
+          "Key": "a",
+          "Value": " 2016"
+        },
+        {
+          "Key": "b",
+          "Value": " 04"
+        }
+      ],
+      "Timestamp": "2016-08-22T04:06:11.9842412-07:00",
+      "Signature": -933948900
+    }
+  ],
+  "StanfordLibraryId": 10234220,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|CURRENTPER"
+  ],
+  "LastUpdatedTimestamp": "2017-03-20T03:40:11.2044356-07:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " (year)"
+        },
+        {
+          "Key": "b",
+          "Value": " (month)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": [
+    "Quarterly"
+  ]
+}

@@ -1,0 +1,94 @@
+FailedWorkItem: 493641 Exception:    at FPParse.LarsSession.ProcessLibrarianViews1(HtmlDocument doc2, LarsDocument larsRecord, String tag, String readAfterTag, StringBuilder& output)
+   at FPParse.DocumentAnalyzer.BuildPublicationPatterns(String view, HtmlDocument doc, LarsCandidate candidate, Boolean isMultiLibrary)
+   at FPParse.DocumentAnalyzer.BuildJournalFromView(String view, HtmlDocument doc)
+   at FPParse.DocumentAnalyzer.FindBestMatch(Parser parser, StringBuilder errors, Boolean fromCache)
+   at journals.Classes.RNRWorkItem.GetJournaFromCatalog(StringBuilder errors)
+   at journals.Classes.RNRWorkItem.SubmitRatings()
+   at journals.Classes.RNRWorkItem.Perform()
+   at BlackHen.Threading.WorkThreadPool.WorkThread.DoWork(IWorkItem workItem) in C:\dev\StanfordLibrary\current periodicals\Threading\WorkThreadPool.cs:line 477
+GetJournalFromHistory for 493641 is recursive True: 
+Unable to find 493641 in X:\stanford\results\latest\493641-International trade .json 0/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-05-23_04-04-14-AM\493641-International trade .json 1/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-05-22_03-48-44-AM\493641-International trade .json 2/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-05-19_04-05-55-AM\493641-International trade .json 3/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-05-18_04-12-53-AM\493641-International trade .json 4/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-05-17_03-45-25-AM\493641-International trade .json 5/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-05-12_03-55-03-AM\493641-International trade .json 6/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-05-11_03-43-53-AM\493641-International trade .json 7/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-05-10_04-02-42-AM\493641-International trade .json 8/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-05-09_04-05-12-AM\493641-International trade .json 9/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-05-08_03-51-42-AM\493641-International trade .json 10/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-05-05_03-58-57-AM\493641-International trade .json 11/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-05-04_03-41-58-AM\493641-International trade .json 12/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-05-03_03-58-38-AM\493641-International trade .json 13/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-05-02_03-58-32-AM\493641-International trade .json 14/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-05-01_03-53-28-AM\493641-International trade .json 15/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-04-28_03-38-13-AM\493641-International trade .json 16/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-04-27_03-38-52-AM\493641-International trade .json 17/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-04-26_04-00-22-AM\493641-International trade .json 18/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-04-25_03-47-04-AM\493641-International trade .json 19/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-04-24_04-06-03-AM\493641-International trade .json 20/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-05-24_04-00-42-AM\493641-International trade .json 21/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-04-04_03-48-42-AM\493641-International trade .json 22/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-04-03_03-52-36-AM\493641-International trade .json 23/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-03-27_04-10-23-AM\493641-International trade .json 24/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-03-24_04-27-08-AM\493641-International trade .json 25/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-03-23_04-00-24-AM\493641-International trade .json 26/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-03-22_03-53-01-AM\493641-International trade .json 27/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-03-21_03-56-54-AM\493641-International trade .json 28/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-03-20_03-40-15-AM\493641-International trade .json 29/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-03-17_03-41-08-AM\493641-International trade .json 30/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-03-16_03-58-24-AM\493641-International trade .json 31/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-03-15_03-48-37-AM\493641-International trade .json 32/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-03-14_04-07-00-AM\493641-International trade .json 33/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-03-13_04-07-55-AM\493641-International trade .json 34/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-03-09_03-48-24-AM\493641-International trade .json 35/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-03-08_03-55-21-AM\493641-International trade .json 36/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-03-07_04-08-37-AM\493641-International trade .json 37/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-03-06_04-15-12-AM\493641-International trade .json 38/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-03-01_04-14-20-AM\493641-International trade .json 39/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-02-28_04-12-01-AM\493641-International trade .json 40/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-02-27_03-46-21-AM\493641-International trade .json 41/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-02-24_04-05-44-AM\493641-International trade .json 42/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-02-23_03-59-56-AM\493641-International trade .json 43/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-02-22_04-10-04-AM\493641-International trade .json 44/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-02-21_04-04-58-AM\493641-International trade .json 45/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-02-20_04-04-09-AM\493641-International trade .json 46/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-02-17_03-57-23-AM\493641-International trade .json 47/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-02-16_04-16-37-AM\493641-International trade .json 48/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-02-15_03-53-27-AM\493641-International trade .json 49/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-02-14_04-05-00-AM\493641-International trade .json 50/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-02-13_03-59-55-AM\493641-International trade .json 51/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-02-10_04-01-42-AM\493641-International trade .json 52/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-02-09_04-11-46-AM\493641-International trade .json 53/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-02-08_04-14-37-AM\493641-International trade .json 54/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-02-07_03-51-19-AM\493641-International trade .json 55/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-02-06_03-48-50-AM\493641-International trade .json 56/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-02-03_04-14-20-AM\493641-International trade .json 57/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-02-02_04-03-10-AM\493641-International trade .json 58/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-02-01_04-08-10-AM\493641-International trade .json 59/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-01-31_03-42-06-AM\493641-International trade .json 60/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-01-30_04-13-43-AM\493641-International trade .json 61/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-01-27_04-02-51-AM\493641-International trade .json 62/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-01-26_04-13-38-AM\493641-International trade .json 63/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-01-25_04-28-55-AM\493641-International trade .json 64/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-01-24_03-46-53-AM\493641-International trade .json 65/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-01-23_03-54-03-AM\493641-International trade .json 66/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-01-20_03-59-33-AM\493641-International trade .json 67/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-01-19_04-01-05-AM\493641-International trade .json 68/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-01-18_04-14-14-AM\493641-International trade .json 69/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-01-17_03-48-07-AM\493641-International trade .json 70/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-01-16_03-58-23-AM\493641-International trade .json 71/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-01-13_04-19-09-AM\493641-International trade .json 72/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-01-12_04-06-29-AM\493641-International trade .json 73/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-01-11_04-00-22-AM\493641-International trade .json 74/112: 
+Unable to find 493641 in X:\stanford\results\backup-2017-01-10_04-12-02-AM\493641-International trade .json 75/112: 
+Success! 493641 was found in X:\stanford\results\backup-2017-01-09_04-00-51-AM\493641-International trade .json 77/112: 
+
+
+Journal 4740294 was not procesed due to error: Journal 4740294 could not be created.Storing last known version of the journal. 	    at journals.Classes.RNRWorkItem.SubmitRatings()
+   at journals.Classes.RNRWorkItem.Perform()
+   at BlackHen.Threading.WorkThreadPool.WorkThread.DoWork(IWorkItem workItem) in C:\dev\StanfordLibrary\current periodicals\Threading\WorkThreadPool.cs:line 477
+Not found	4740294	China review
+Journal 4740294 not found in cache. Skipping.
+

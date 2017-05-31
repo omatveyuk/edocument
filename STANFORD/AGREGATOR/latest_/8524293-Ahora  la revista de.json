@@ -1,0 +1,82 @@
+{
+  "CatalogTitle": "ahora   la revista de la fundación centro de pensamiento primero colombia ",
+  "OriginalTitle": "Ahora : la revista de la Fundaci�n Centro de Pensamiento Primero Colombia",
+  "CallNumber": "JL2801 .A36",
+  "Issues": [
+    {
+      "Identifier": "8| 2.1\n        a| 1\n        i| 2009\n        j| 08",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2009"
+        },
+        {
+          "Key": "j",
+          "Value": " 08"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 149874078
+    },
+    {
+      "Identifier": "8| 2.2\n        a| 2\n        i| 2009\n        j| 10",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.2"
+        },
+        {
+          "Key": "a",
+          "Value": " 2"
+        },
+        {
+          "Key": "i",
+          "Value": " 2009"
+        },
+        {
+          "Key": "j",
+          "Value": " 10"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 217441695
+    }
+  ],
+  "StanfordLibraryId": 8524293,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|CURRENTPER"
+  ],
+  "LastUpdatedTimestamp": "2015-12-03T05:45:47.0493947-08:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " no."
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        },
+        {
+          "Key": "j",
+          "Value": " (month)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": []
+}

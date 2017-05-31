@@ -1,0 +1,219 @@
+{
+  "CatalogTitle": "calebasse   le magazine de bord de la compagnie asky ",
+  "OriginalTitle": "Calebasse",
+  "CallNumber": "HE9886.5 .A96 C35",
+  "Issues": [
+    {
+      "Identifier": "8| 2.1\n        a| 3\n        i| 2011\n        j| 14",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 3"
+        },
+        {
+          "Key": "i",
+          "Value": " 2011"
+        },
+        {
+          "Key": "j",
+          "Value": " 14"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -355188537
+    },
+    {
+      "Identifier": "8| 3.1\n        a| 12\n        i| 2014\n        j| 02/03",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 12"
+        },
+        {
+          "Key": "i",
+          "Value": " 2014"
+        },
+        {
+          "Key": "j",
+          "Value": " 02/03"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1520220254
+    },
+    {
+      "Identifier": "8| 3.2\n        a| 13\n        i| 2014\n        j| 04/05",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3.2"
+        },
+        {
+          "Key": "a",
+          "Value": " 13"
+        },
+        {
+          "Key": "i",
+          "Value": " 2014"
+        },
+        {
+          "Key": "j",
+          "Value": " 04/05"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1248421319
+    },
+    {
+      "Identifier": "8| 3.3\n        a| 14\n        i| 2014\n        j| 06/07",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3.3"
+        },
+        {
+          "Key": "a",
+          "Value": " 14"
+        },
+        {
+          "Key": "i",
+          "Value": " 2014"
+        },
+        {
+          "Key": "j",
+          "Value": " 06/07"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 793691924
+    },
+    {
+      "Identifier": "8| 3.4\n        a| 15\n        i| 2014\n        j| 08/09",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3.4"
+        },
+        {
+          "Key": "a",
+          "Value": " 15"
+        },
+        {
+          "Key": "i",
+          "Value": " 2014"
+        },
+        {
+          "Key": "j",
+          "Value": " 08/09"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -361811541
+    },
+    {
+      "Identifier": "8| 3.5\n        a| 16\n        i| 2014\n        j| 10/11",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3.5"
+        },
+        {
+          "Key": "a",
+          "Value": " 16"
+        },
+        {
+          "Key": "i",
+          "Value": " 2014"
+        },
+        {
+          "Key": "j",
+          "Value": " 10/11"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1098453867
+    },
+    {
+      "Identifier": "8| 3.6\n        a| 29\n        i| 2016/2017\n        j| 12/01",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3.6"
+        },
+        {
+          "Key": "a",
+          "Value": " 29"
+        },
+        {
+          "Key": "i",
+          "Value": " 2016/2017"
+        },
+        {
+          "Key": "j",
+          "Value": " 12/01"
+        }
+      ],
+      "Timestamp": "2017-04-25T03:46:53.1859014-07:00",
+      "Signature": 1203899874
+    }
+  ],
+  "StanfordLibraryId": 10423378,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|STACKS"
+  ],
+  "LastUpdatedTimestamp": "2017-04-25T03:46:53.1859014-07:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " no."
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        },
+        {
+          "Key": "j",
+          "Value": " (season)"
+        }
+      ]
+    },
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3"
+        },
+        {
+          "Key": "a",
+          "Value": " no."
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        },
+        {
+          "Key": "j",
+          "Value": " (month)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": [
+    "Bimonthly"
+  ]
+}

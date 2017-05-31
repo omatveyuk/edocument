@@ -1,0 +1,240 @@
+{
+  "CatalogTitle": "the dawn   amwik  association of media women in kenya ",
+  "OriginalTitle": "\"Dawn / AMWIK, Association of Media Women in Kenya\"",
+  "CallNumber": "HQ1796.5 .A14 F",
+  "Issues": [
+    {
+      "Identifier": "8| 3.1\n        a| 2005\n        b| 07/09",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 2005"
+        },
+        {
+          "Key": "b",
+          "Value": " 07/09"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -2058044295
+    },
+    {
+      "Identifier": "8| 3.2\n        a| 2005/2006\n        b| 10/01",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3.2"
+        },
+        {
+          "Key": "a",
+          "Value": " 2005/2006"
+        },
+        {
+          "Key": "b",
+          "Value": " 10/01"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -305692193
+    },
+    {
+      "Identifier": "8| 5.1\n        a| 1\n        i| 2011\n        j| SEP/NOV",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 5.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2011"
+        },
+        {
+          "Key": "j",
+          "Value": " SEP/NOV"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -266190050
+    },
+    {
+      "Identifier": "8| 5.2\n        a| 2\n        i| 2011/2012\n        j| DEC/FEB",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 5.2"
+        },
+        {
+          "Key": "a",
+          "Value": " 2"
+        },
+        {
+          "Key": "i",
+          "Value": " 2011/2012"
+        },
+        {
+          "Key": "j",
+          "Value": " DEC/FEB"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1242617959
+    },
+    {
+      "Identifier": "8| 5.3\n        a| 3\n        i| 2012\n        j| MAR/MAY",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 5.3"
+        },
+        {
+          "Key": "a",
+          "Value": " 3"
+        },
+        {
+          "Key": "i",
+          "Value": " 2012"
+        },
+        {
+          "Key": "j",
+          "Value": " MAR/MAY"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -892824702
+    },
+    {
+      "Identifier": "8| 5.4\n        a| 4\n        i| 2012\n        j| JUN/AUG",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 5.4"
+        },
+        {
+          "Key": "a",
+          "Value": " 4"
+        },
+        {
+          "Key": "i",
+          "Value": " 2012"
+        },
+        {
+          "Key": "j",
+          "Value": " JUN/AUG"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 2098841727
+    },
+    {
+      "Identifier": "8| 5.5\n        a| 2013\n        i| 2013\n        j| JAN",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 5.5"
+        },
+        {
+          "Key": "a",
+          "Value": " 2013"
+        },
+        {
+          "Key": "i",
+          "Value": " 2013"
+        },
+        {
+          "Key": "j",
+          "Value": " JAN"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1294157749
+    }
+  ],
+  "StanfordLibraryId": 6423098,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "SAL3|STACKS",
+    "GREEN|CURRENTPER"
+  ],
+  "LastUpdatedTimestamp": "2015-12-03T05:45:47.0493947-08:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " (year)"
+        }
+      ]
+    },
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3"
+        },
+        {
+          "Key": "a",
+          "Value": " (year)"
+        },
+        {
+          "Key": "b",
+          "Value": " (month)"
+        }
+      ]
+    },
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 4"
+        },
+        {
+          "Key": "a",
+          "Value": " iss."
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        },
+        {
+          "Key": "j",
+          "Value": " (month)"
+        }
+      ]
+    },
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 5"
+        },
+        {
+          "Key": "a",
+          "Value": " n.s.iss."
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        },
+        {
+          "Key": "j",
+          "Value": " (month)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": [
+    "Quarterly irregular"
+  ]
+}

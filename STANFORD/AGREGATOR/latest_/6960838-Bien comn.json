@@ -1,0 +1,186 @@
+{
+  "CatalogTitle": "bien común ",
+  "OriginalTitle": "Bien com�n",
+  "CallNumber": "F1201 .B54",
+  "Issues": [
+    {
+      "Identifier": "8| 2.1\n        a| 20\n        b| 230\n        i| 2014\n        j| 05",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 20"
+        },
+        {
+          "Key": "b",
+          "Value": " 230"
+        },
+        {
+          "Key": "i",
+          "Value": " 2014"
+        },
+        {
+          "Key": "j",
+          "Value": " 05"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -110246284
+    },
+    {
+      "Identifier": "8| 2.2\n        a| 20\n        b| 231\n        i| 2014\n        j| 06",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.2"
+        },
+        {
+          "Key": "a",
+          "Value": " 20"
+        },
+        {
+          "Key": "b",
+          "Value": " 231"
+        },
+        {
+          "Key": "i",
+          "Value": " 2014"
+        },
+        {
+          "Key": "j",
+          "Value": " 06"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1039066518
+    },
+    {
+      "Identifier": "8| 2.3\n        a| 20\n        b| 235\n        i| 2014\n        j| 10",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.3"
+        },
+        {
+          "Key": "a",
+          "Value": " 20"
+        },
+        {
+          "Key": "b",
+          "Value": " 235"
+        },
+        {
+          "Key": "i",
+          "Value": " 2014"
+        },
+        {
+          "Key": "j",
+          "Value": " 10"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1686012876
+    },
+    {
+      "Identifier": "8| 2.4\n        a| 20\n        b| 236\n        i| 2014\n        j| 11",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.4"
+        },
+        {
+          "Key": "a",
+          "Value": " 20"
+        },
+        {
+          "Key": "b",
+          "Value": " 236"
+        },
+        {
+          "Key": "i",
+          "Value": " 2014"
+        },
+        {
+          "Key": "j",
+          "Value": " 11"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1132397246
+    },
+    {
+      "Identifier": "8| 2.5\n        a| 20\n        b| 237\n        i| 2014\n        j| 12",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.5"
+        },
+        {
+          "Key": "a",
+          "Value": " 20"
+        },
+        {
+          "Key": "b",
+          "Value": " 237"
+        },
+        {
+          "Key": "i",
+          "Value": " 2014"
+        },
+        {
+          "Key": "j",
+          "Value": " 12"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -2122021816
+    }
+  ],
+  "StanfordLibraryId": 6960838,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|STACKS",
+    "GREEN|CURRENTPER"
+  ],
+  "LastUpdatedTimestamp": "2015-12-03T05:45:47.0493947-08:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " v."
+        },
+        {
+          "Key": "b",
+          "Value": " no."
+        },
+        {
+          "Key": "u",
+          "Value": " 12"
+        },
+        {
+          "Key": "v",
+          "Value": " r"
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        },
+        {
+          "Key": "j",
+          "Value": " (month)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": [
+    "Monthly"
+  ]
+}

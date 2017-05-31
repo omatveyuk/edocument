@@ -1,0 +1,231 @@
+{
+  "CatalogTitle": "expressions littéraires ",
+  "OriginalTitle": "Expressions litteraires",
+  "CallNumber": "PQ3988.5 .S38 E88 F",
+  "Issues": [
+    {
+      "Identifier": "8| 2.1\n        a| 7\n        i| 2013\n        j| 05/06\n        k| 20/5",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 7"
+        },
+        {
+          "Key": "i",
+          "Value": " 2013"
+        },
+        {
+          "Key": "j",
+          "Value": " 05/06"
+        },
+        {
+          "Key": "k",
+          "Value": " 20/5"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1422531721
+    },
+    {
+      "Identifier": "8| 2.2\n        a| 8\n        i| 2013\n        j| 06\n        k| 1/15",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.2"
+        },
+        {
+          "Key": "a",
+          "Value": " 8"
+        },
+        {
+          "Key": "i",
+          "Value": " 2013"
+        },
+        {
+          "Key": "j",
+          "Value": " 06"
+        },
+        {
+          "Key": "k",
+          "Value": " 1/15"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1664398690
+    },
+    {
+      "Identifier": "8| 2.3\n        a| 9\n        i| 2013\n        j| 10\n        k| 15/31",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.3"
+        },
+        {
+          "Key": "a",
+          "Value": " 9"
+        },
+        {
+          "Key": "i",
+          "Value": " 2013"
+        },
+        {
+          "Key": "j",
+          "Value": " 10"
+        },
+        {
+          "Key": "k",
+          "Value": " 15/31"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -339856470
+    },
+    {
+      "Identifier": "8| 2.4\n        a| 10\n        i| 2013\n        j| 11\n        k| 1/15",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.4"
+        },
+        {
+          "Key": "a",
+          "Value": " 10"
+        },
+        {
+          "Key": "i",
+          "Value": " 2013"
+        },
+        {
+          "Key": "j",
+          "Value": " 11"
+        },
+        {
+          "Key": "k",
+          "Value": " 1/15"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1993318170
+    },
+    {
+      "Identifier": "8| 2.5\n        a| 11\n        i| 2013\n        j| 12\n        k| 2/16",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.5"
+        },
+        {
+          "Key": "a",
+          "Value": " 11"
+        },
+        {
+          "Key": "i",
+          "Value": " 2013"
+        },
+        {
+          "Key": "j",
+          "Value": " 12"
+        },
+        {
+          "Key": "k",
+          "Value": " 2/16"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -386159603
+    },
+    {
+      "Identifier": "8| 2.6\n        a| 12\n        i| 2014\n        j| 01\n        k| 5/20",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.6"
+        },
+        {
+          "Key": "a",
+          "Value": " 12"
+        },
+        {
+          "Key": "i",
+          "Value": " 2014"
+        },
+        {
+          "Key": "j",
+          "Value": " 01"
+        },
+        {
+          "Key": "k",
+          "Value": " 5/20"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1351495227
+    },
+    {
+      "Identifier": "8| 2.7\n        a| 13\n        i| 2014\n        j| 02\n        k| 10/25",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.7"
+        },
+        {
+          "Key": "a",
+          "Value": " 13"
+        },
+        {
+          "Key": "i",
+          "Value": " 2014"
+        },
+        {
+          "Key": "j",
+          "Value": " 02"
+        },
+        {
+          "Key": "k",
+          "Value": " 10/25"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 905733368
+    }
+  ],
+  "StanfordLibraryId": 10647118,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|CURRENTPER"
+  ],
+  "LastUpdatedTimestamp": "2015-12-03T05:45:47.0493947-08:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " no."
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        },
+        {
+          "Key": "j",
+          "Value": " (month)"
+        },
+        {
+          "Key": "k",
+          "Value": " (day)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": [
+    "Bimonthly irregular"
+  ]
+}

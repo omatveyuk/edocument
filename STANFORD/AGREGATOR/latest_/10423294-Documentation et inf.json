@@ -1,0 +1,65 @@
+{
+  "CatalogTitle": "documentation et information pour l afrique ",
+  "OriginalTitle": "Documentation et information pour l'Afrique",
+  "CallNumber": "BX1682 .C6 D63 F",
+  "Issues": [
+    {
+      "Identifier": "8| 2.1\n        a| 56\n        i| 2013\n        j| 12",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 56"
+        },
+        {
+          "Key": "i",
+          "Value": " 2013"
+        },
+        {
+          "Key": "j",
+          "Value": " 12"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1535526411
+    }
+  ],
+  "StanfordLibraryId": 10423294,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|CURRENTPER"
+  ],
+  "LastUpdatedTimestamp": "2015-12-03T05:45:47.0493947-08:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " annee"
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        },
+        {
+          "Key": "j",
+          "Value": " (month)"
+        },
+        {
+          "Key": "k",
+          "Value": " (day)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": [
+    "Weekly"
+  ]
+}

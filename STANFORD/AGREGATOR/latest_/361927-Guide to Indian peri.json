@@ -1,0 +1,92 @@
+{
+  "CatalogTitle": "guide to indian periodical literature ",
+  "OriginalTitle": "Guide to Indian periodical literature",
+  "CallNumber": "Z3203 .G9",
+  "Issues": [
+    {
+      "Identifier": "8| 1.1\n        a| 33\n        i| 1996",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 1.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 33"
+        },
+        {
+          "Key": "i",
+          "Value": " 1996"
+        }
+      ],
+      "Timestamp": "2016-01-12T13:14:38.9997006-08:00",
+      "Signature": 1807692683
+    },
+    {
+      "Identifier": "8| 1.2\n        a| 34\n        i| 1997",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 1.2"
+        },
+        {
+          "Key": "a",
+          "Value": " 34"
+        },
+        {
+          "Key": "i",
+          "Value": " 1997"
+        }
+      ],
+      "Timestamp": "2016-01-12T13:14:38.9997006-08:00",
+      "Signature": -572109956
+    },
+    {
+      "Identifier": "8| 1.3\n        a| 39\n        i| 2002",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 1.3"
+        },
+        {
+          "Key": "a",
+          "Value": " 39"
+        },
+        {
+          "Key": "i",
+          "Value": " 2002"
+        }
+      ],
+      "Timestamp": "2016-01-12T13:14:38.9997006-08:00",
+      "Signature": -807778589
+    }
+  ],
+  "StanfordLibraryId": 361927,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|CURRENTPER",
+    "GREEN|STACKS"
+  ],
+  "LastUpdatedTimestamp": "2016-01-12T13:14:38.9997006-08:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 1"
+        },
+        {
+          "Key": "a",
+          "Value": " v."
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": [
+    "Quarterly with annual cumulations"
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "CatalogTitle": "templum novum ",
+  "OriginalTitle": "Templum novum",
+  "CallNumber": "DK4010 .T46",
+  "Issues": [
+    {
+      "Identifier": "8| 3.1\n        a| 2004\n        b| 1\n        c| 1",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 2004"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        },
+        {
+          "Key": "c",
+          "Value": " 1"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1055763469
+    },
+    {
+      "Identifier": "8| 4.1\n        a| 2005\n        b| 2\n        c| 2",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 4.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 2005"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        },
+        {
+          "Key": "c",
+          "Value": " 2"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -652479038
+    },
+    {
+      "Identifier": "8| 4.2\n        a| 2006\n        b| 3\n        c| 3",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 4.2"
+        },
+        {
+          "Key": "a",
+          "Value": " 2006"
+        },
+        {
+          "Key": "b",
+          "Value": " 3"
+        },
+        {
+          "Key": "c",
+          "Value": " 3"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 2076404481
+    },
+    {
+      "Identifier": "8| 4.3\n        a| 2007\n        b| 4\n        c| 4",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 4.3"
+        },
+        {
+          "Key": "a",
+          "Value": " 2007"
+        },
+        {
+          "Key": "b",
+          "Value": " 4"
+        },
+        {
+          "Key": "c",
+          "Value": " 4"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1459048032
+    },
+    {
+      "Identifier": "8| 4.4\n        a| 2007\n        b| 4\n        c| 5/6",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 4.4"
+        },
+        {
+          "Key": "a",
+          "Value": " 2007"
+        },
+        {
+          "Key": "b",
+          "Value": " 4"
+        },
+        {
+          "Key": "c",
+          "Value": " 5/6"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 417032178
+    },
+    {
+      "Identifier": "8| 4.5\n        a| 2008\n        b| 5\n        c| 7",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 4.5"
+        },
+        {
+          "Key": "a",
+          "Value": " 2008"
+        },
+        {
+          "Key": "b",
+          "Value": " 5"
+        },
+        {
+          "Key": "c",
+          "Value": " 7"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1269835229
+    },
+    {
+      "Identifier": "8| 4.6\n        a| 2009\n        b| 6\n        c| 8",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 4.6"
+        },
+        {
+          "Key": "a",
+          "Value": " 2009"
+        },
+        {
+          "Key": "b",
+          "Value": " 6"
+        },
+        {
+          "Key": "c",
+          "Value": " 8"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1673119664
+    },
+    {
+      "Identifier": "8| 4.7\n        a| 2009\n        b| 6\n        c| 9",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 4.7"
+        },
+        {
+          "Key": "a",
+          "Value": " 2009"
+        },
+        {
+          "Key": "b",
+          "Value": " 6"
+        },
+        {
+          "Key": "c",
+          "Value": " 9"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1673119663
+    },
+    {
+      "Identifier": "8| 4.8\n        a| 2010\n        b| 7\n        c| 10",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 4.8"
+        },
+        {
+          "Key": "a",
+          "Value": " 2010"
+        },
+        {
+          "Key": "b",
+          "Value": " 7"
+        },
+        {
+          "Key": "c",
+          "Value": " 10"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 887897517
+    },
+    {
+      "Identifier": "8| 4.9\n        a| 2011/2012\n        b| 8/9\n        c| 11/12",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 4.9"
+        },
+        {
+          "Key": "a",
+          "Value": " 2011/2012"
+        },
+        {
+          "Key": "b",
+          "Value": " 8/9"
+        },
+        {
+          "Key": "c",
+          "Value": " 11/12"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1002382578
+    },
+    {
+      "Identifier": "8| 4.10\n        a| 2013\n        b| 10\n        c| 13",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 4.10"
+        },
+        {
+          "Key": "a",
+          "Value": " 2013"
+        },
+        {
+          "Key": "b",
+          "Value": " 10"
+        },
+        {
+          "Key": "c",
+          "Value": " 13"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -272677091
+    },
+    {
+      "Identifier": "8| 4.11\n        a| 2015\n        b| 12\n        c| 14",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 4.11"
+        },
+        {
+          "Key": "a",
+          "Value": " 2015"
+        },
+        {
+          "Key": "b",
+          "Value": " 12"
+        },
+        {
+          "Key": "c",
+          "Value": " 14"
+        }
+      ],
+      "Timestamp": "2016-01-22T03:00:01.298021-08:00",
+      "Signature": -137172858
+    },
+    {
+      "Identifier": "8| 4.12\n        a| 2016\n        b| 13\n        c| 15",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 4.12"
+        },
+        {
+          "Key": "a",
+          "Value": " 2016"
+        },
+        {
+          "Key": "b",
+          "Value": " 13"
+        },
+        {
+          "Key": "c",
+          "Value": " 15"
+        }
+      ],
+      "Timestamp": "2017-01-30T04:13:28.9694894-08:00",
+      "Signature": -1569366588
+    }
+  ],
+  "StanfordLibraryId": 5652780,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|STACKS",
+    "GREEN|CURRENTPER"
+  ],
+  "LastUpdatedTimestamp": "2017-01-30T04:13:28.9694894-08:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " yr."
+        },
+        {
+          "Key": "b",
+          "Value": " rok."
+        },
+        {
+          "Key": "u",
+          "Value": " 2"
+        },
+        {
+          "Key": "v",
+          "Value": " r"
+        },
+        {
+          "Key": "c",
+          "Value": " nr."
+        },
+        {
+          "Key": "v",
+          "Value": " c"
+        }
+      ]
+    },
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3"
+        },
+        {
+          "Key": "a",
+          "Value": " (yr.)"
+        },
+        {
+          "Key": "b",
+          "Value": " rok."
+        },
+        {
+          "Key": "u",
+          "Value": " 2"
+        },
+        {
+          "Key": "v",
+          "Value": " r"
+        },
+        {
+          "Key": "c",
+          "Value": " nr."
+        },
+        {
+          "Key": "v",
+          "Value": " c"
+        }
+      ]
+    },
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 4"
+        },
+        {
+          "Key": "a",
+          "Value": " (yr.)"
+        },
+        {
+          "Key": "b",
+          "Value": " rok."
+        },
+        {
+          "Key": "v",
+          "Value": " c"
+        },
+        {
+          "Key": "c",
+          "Value": " nr."
+        },
+        {
+          "Key": "v",
+          "Value": " c"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": []
+}

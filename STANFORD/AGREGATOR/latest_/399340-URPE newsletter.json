@@ -1,0 +1,77 @@
+{
+  "CatalogTitle": "u r p e  newsletter ",
+  "OriginalTitle": "U.R.P.E. newsletter",
+  "CallNumber": "HC101 .U55",
+  "Issues": [
+    {
+      "Identifier": "8| 2.1\n        a| 44\n        b| 1\n        i| 2012\n        j| 15",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 44"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2012"
+        },
+        {
+          "Key": "j",
+          "Value": " 15"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1325018749
+    }
+  ],
+  "StanfordLibraryId": 399340,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|STACKS",
+    "GREEN|CURRENTPER",
+    "GREEN|SSRC-FICHE"
+  ],
+  "LastUpdatedTimestamp": "2016-01-12T13:14:38.9997006-08:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " v."
+        },
+        {
+          "Key": "b",
+          "Value": " no."
+        },
+        {
+          "Key": "u",
+          "Value": " 4"
+        },
+        {
+          "Key": "v",
+          "Value": " r"
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        },
+        {
+          "Key": "j",
+          "Value": " (season)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": []
+}

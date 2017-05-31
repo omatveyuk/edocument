@@ -1,0 +1,168 @@
+{
+  "CatalogTitle": "jahresprogramm   herzog august bibliothek ",
+  "OriginalTitle": "Jahresprogramm",
+  "CallNumber": "Z802 .H47 H474",
+  "Issues": [
+    {
+      "Identifier": "8| 2.1\n        a| 2014\n        b| 05/08",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 2014"
+        },
+        {
+          "Key": "b",
+          "Value": " 05/08"
+        }
+      ],
+      "Timestamp": "2016-01-12T13:14:38.9997006-08:00",
+      "Signature": 773271923
+    },
+    {
+      "Identifier": "8| 2.2\n        a| 2014\n        b| 09/12",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.2"
+        },
+        {
+          "Key": "a",
+          "Value": " 2014"
+        },
+        {
+          "Key": "b",
+          "Value": " 09/12"
+        }
+      ],
+      "Timestamp": "2016-01-12T13:14:38.9997006-08:00",
+      "Signature": 2115335633
+    },
+    {
+      "Identifier": "8| 2.3\n        a| 2015\n        b| 01/04",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.3"
+        },
+        {
+          "Key": "a",
+          "Value": " 2015"
+        },
+        {
+          "Key": "b",
+          "Value": " 01/04"
+        }
+      ],
+      "Timestamp": "2016-01-12T13:14:38.9997006-08:00",
+      "Signature": 1850849744
+    },
+    {
+      "Identifier": "8| 2.4\n        a| 2015\n        b| 05/08",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.4"
+        },
+        {
+          "Key": "a",
+          "Value": " 2015"
+        },
+        {
+          "Key": "b",
+          "Value": " 05/08"
+        }
+      ],
+      "Timestamp": "2016-08-03T04:07:59.5365145-07:00",
+      "Signature": 773271828
+    },
+    {
+      "Identifier": "8| 2.5\n        a| 2015\n        b| 09/12",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.5"
+        },
+        {
+          "Key": "a",
+          "Value": " 2015"
+        },
+        {
+          "Key": "b",
+          "Value": " 09/12"
+        }
+      ],
+      "Timestamp": "2016-08-03T04:07:59.5365145-07:00",
+      "Signature": 2115335538
+    },
+    {
+      "Identifier": "8| 2.6\n        a| 2016\n        b| 01/04",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.6"
+        },
+        {
+          "Key": "a",
+          "Value": " 2016"
+        },
+        {
+          "Key": "b",
+          "Value": " 01/04"
+        }
+      ],
+      "Timestamp": "2016-08-03T04:07:59.5365145-07:00",
+      "Signature": 1850849901
+    },
+    {
+      "Identifier": "8| 2.7\n        a| 2016\n        b| 05/08",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.7"
+        },
+        {
+          "Key": "a",
+          "Value": " 2016"
+        },
+        {
+          "Key": "b",
+          "Value": " 05/08"
+        }
+      ],
+      "Timestamp": "2016-07-01T04:08:49.6608091-07:00",
+      "Signature": 773271985
+    }
+  ],
+  "StanfordLibraryId": 4317825,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|CURRENTPER",
+    "SAL3|STACKS"
+  ],
+  "LastUpdatedTimestamp": "2016-08-03T04:07:59.5365145-07:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " (year)"
+        },
+        {
+          "Key": "b",
+          "Value": " (month)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": [
+    "Annual"
+  ]
+}

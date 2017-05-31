@@ -1,0 +1,63 @@
+{
+  "CatalogTitle": "880 02 al funūn al shaʻbīyah ",
+  "OriginalTitle": "Fun?n al-sha?b?yah",
+  "CallNumber": "GR355 .F82",
+  "Issues": [
+    {
+      "Identifier": "8| 2.1\n        a| 100\n        i| 2015\n        j| 01/12",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 100"
+        },
+        {
+          "Key": "i",
+          "Value": " 2015"
+        },
+        {
+          "Key": "j",
+          "Value": " 01/12"
+        }
+      ],
+      "Timestamp": "2016-05-25T03:00:03.497208-07:00",
+      "Signature": 594996186
+    }
+  ],
+  "StanfordLibraryId": 6308800,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|STACKS",
+    "GREEN|CURRENTPER",
+    "GREEN|STACKS"
+  ],
+  "LastUpdatedTimestamp": "2016-05-25T03:00:03.497208-07:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " v."
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        },
+        {
+          "Key": "j",
+          "Value": " (month)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": [
+    "Four no a year"
+  ]
+}

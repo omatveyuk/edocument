@@ -1,0 +1,61 @@
+{
+  "CatalogTitle": "asante   the inflight magazine of air uganda  part of the group celestair ",
+  "OriginalTitle": "\"Asante : the inflight magazine of Air Uganda, part of the Group Celestair\"",
+  "CallNumber": "DT433.227 .A83",
+  "Issues": [
+    {
+      "Identifier": "8| 2.1\n        a| 5\n        i| 2011\n        j| 02/04",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 5"
+        },
+        {
+          "Key": "i",
+          "Value": " 2011"
+        },
+        {
+          "Key": "j",
+          "Value": " 02/04"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 81026767
+    }
+  ],
+  "StanfordLibraryId": 9198261,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|CURRENTPER"
+  ],
+  "LastUpdatedTimestamp": "2015-12-03T05:45:47.0493947-08:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " no."
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        },
+        {
+          "Key": "j",
+          "Value": " (month)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": [
+    "Quarterly"
+  ]
+}

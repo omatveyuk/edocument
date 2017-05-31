@@ -1,0 +1,96 @@
+{
+  "CatalogTitle": "east africa business agenda ",
+  "OriginalTitle": "East Africa business agenda",
+  "CallNumber": "HF3892 .A23 F",
+  "Issues": [
+    {
+      "Identifier": "8| 2.1\n        a| 1\n        i| 2012\n        j| 01",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2012"
+        },
+        {
+          "Key": "j",
+          "Value": " 01"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 191030005
+    },
+    {
+      "Identifier": "8| 3.1\n        a| 2014\n        b| 05/08",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 2014"
+        },
+        {
+          "Key": "b",
+          "Value": " 05/08"
+        }
+      ],
+      "Timestamp": "2016-12-13T04:16:21.6499163-08:00",
+      "Signature": 773271923
+    }
+  ],
+  "StanfordLibraryId": 9743893,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|STACKS"
+  ],
+  "LastUpdatedTimestamp": "2016-12-13T04:16:21.6499163-08:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " no."
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        },
+        {
+          "Key": "j",
+          "Value": " (month)"
+        }
+      ]
+    },
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3"
+        },
+        {
+          "Key": "a",
+          "Value": " (year)"
+        },
+        {
+          "Key": "b",
+          "Value": " (month)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": [
+    "Quarterly"
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "CatalogTitle": "gauge ",
+  "OriginalTitle": "Gauge",
+  "CallNumber": "HJ86.2 .A335",
+  "Issues": [
+    {
+      "Identifier": "8| 2.1\n        a| 2010\n        b| 01/03",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 2010"
+        },
+        {
+          "Key": "b",
+          "Value": " 01/03"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1684602446
+    },
+    {
+      "Identifier": "8| 2.2\n        a| 2012\n        b| 01/03",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.2"
+        },
+        {
+          "Key": "a",
+          "Value": " 2012"
+        },
+        {
+          "Key": "b",
+          "Value": " 01/03"
+        }
+      ],
+      "Timestamp": "2016-06-28T03:38:52.178607-07:00",
+      "Signature": -1684602384
+    },
+    {
+      "Identifier": "8| 2.3\n        a| 2012\n        b| 04/06",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.3"
+        },
+        {
+          "Key": "a",
+          "Value": " 2012"
+        },
+        {
+          "Key": "b",
+          "Value": " 04/06"
+        }
+      ],
+      "Timestamp": "2016-06-28T03:38:52.178607-07:00",
+      "Signature": -879647713
+    },
+    {
+      "Identifier": "8| 2.4\n        a| 2012\n        b| 07/09",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.4"
+        },
+        {
+          "Key": "a",
+          "Value": " 2012"
+        },
+        {
+          "Key": "b",
+          "Value": " 07/09"
+        }
+      ],
+      "Timestamp": "2016-06-28T03:38:52.178607-07:00",
+      "Signature": 2071575954
+    },
+    {
+      "Identifier": "8| 2.5\n        a| 2012\n        b| 10/12",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.5"
+        },
+        {
+          "Key": "a",
+          "Value": " 2012"
+        },
+        {
+          "Key": "b",
+          "Value": " 10/12"
+        }
+      ],
+      "Timestamp": "2016-06-28T03:38:52.178607-07:00",
+      "Signature": 1293406938
+    },
+    {
+      "Identifier": "8| 2.6\n        a| 2014\n        b| 04/06",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.6"
+        },
+        {
+          "Key": "a",
+          "Value": " 2014"
+        },
+        {
+          "Key": "b",
+          "Value": " 04/06"
+        }
+      ],
+      "Timestamp": "2016-06-28T03:38:52.178607-07:00",
+      "Signature": -879647899
+    },
+    {
+      "Identifier": "8| 2.7\n        a| 2014\n        b| 10/12",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.7"
+        },
+        {
+          "Key": "a",
+          "Value": " 2014"
+        },
+        {
+          "Key": "b",
+          "Value": " 10/12"
+        }
+      ],
+      "Timestamp": "2016-06-28T03:38:52.178607-07:00",
+      "Signature": 1293406752
+    }
+  ],
+  "StanfordLibraryId": 9856551,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|CURRENTPER"
+  ],
+  "LastUpdatedTimestamp": "2016-06-28T03:38:52.178607-07:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 1"
+        },
+        {
+          "Key": "a",
+          "Value": " v."
+        },
+        {
+          "Key": "b",
+          "Value": " no."
+        },
+        {
+          "Key": "u",
+          "Value": " 4"
+        },
+        {
+          "Key": "v",
+          "Value": " r"
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        },
+        {
+          "Key": "j",
+          "Value": " (month)"
+        }
+      ]
+    },
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " (year)"
+        },
+        {
+          "Key": "b",
+          "Value": " (month)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": [
+    "Quarterly"
+  ]
+}

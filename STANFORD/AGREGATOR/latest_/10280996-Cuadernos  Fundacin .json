@@ -1,0 +1,223 @@
+{
+  "CatalogTitle": "cuadernos   fundación pablo neruda ",
+  "OriginalTitle": "Cuadernos / Fundaci�n Pablo Neruda",
+  "CallNumber": "PQ8097 .N4 Z5892",
+  "Issues": [
+    {
+      "Identifier": "8| 2.1\n        a| 67\n        i| 2011\n        j| 14",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 67"
+        },
+        {
+          "Key": "i",
+          "Value": " 2011"
+        },
+        {
+          "Key": "j",
+          "Value": " 14"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1790344434
+    },
+    {
+      "Identifier": "8| 2.2\n        a| 68\n        i| 2011\n        j| 13",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.2"
+        },
+        {
+          "Key": "a",
+          "Value": " 68"
+        },
+        {
+          "Key": "i",
+          "Value": " 2011"
+        },
+        {
+          "Key": "j",
+          "Value": " 13"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -279444470
+    },
+    {
+      "Identifier": "8| 2.3\n        a| 69\n        i| 2013\n        j| 16",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.3"
+        },
+        {
+          "Key": "a",
+          "Value": " 69"
+        },
+        {
+          "Key": "i",
+          "Value": " 2013"
+        },
+        {
+          "Key": "j",
+          "Value": " 16"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 755015390
+    },
+    {
+      "Identifier": "8| 2.4\n        a| 70\n        i| 2014\n        j| 15",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.4"
+        },
+        {
+          "Key": "a",
+          "Value": " 70"
+        },
+        {
+          "Key": "i",
+          "Value": " 2014"
+        },
+        {
+          "Key": "j",
+          "Value": " 15"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 2052516268
+    },
+    {
+      "Identifier": "8| 2.5\n        a| 71\n        i| 2014\n        j| 13",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.5"
+        },
+        {
+          "Key": "a",
+          "Value": " 71"
+        },
+        {
+          "Key": "i",
+          "Value": " 2014"
+        },
+        {
+          "Key": "j",
+          "Value": " 13"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 446543037
+    },
+    {
+      "Identifier": "8| 2.6\n        a| 73\n        i| 2015\n        j| 13",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.6"
+        },
+        {
+          "Key": "a",
+          "Value": " 73"
+        },
+        {
+          "Key": "i",
+          "Value": " 2015"
+        },
+        {
+          "Key": "j",
+          "Value": " 13"
+        }
+      ],
+      "Timestamp": "2017-03-06T04:15:09.9325891-08:00",
+      "Signature": 1911461343
+    },
+    {
+      "Identifier": "8| 2.7\n        a| 74\n        i| 2016\n        j| 15",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.7"
+        },
+        {
+          "Key": "a",
+          "Value": " 74"
+        },
+        {
+          "Key": "i",
+          "Value": " 2016"
+        },
+        {
+          "Key": "j",
+          "Value": " 15"
+        }
+      ],
+      "Timestamp": "2017-03-06T04:15:09.9325891-08:00",
+      "Signature": 1222945776
+    },
+    {
+      "Identifier": "8| 2.8\n        a| 75\n        i| 2016\n        j| 13",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.8"
+        },
+        {
+          "Key": "a",
+          "Value": " 75"
+        },
+        {
+          "Key": "i",
+          "Value": " 2016"
+        },
+        {
+          "Key": "j",
+          "Value": " 13"
+        }
+      ],
+      "Timestamp": "2017-03-06T04:15:09.9325891-08:00",
+      "Signature": -739257815
+    }
+  ],
+  "StanfordLibraryId": 10280996,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|STACKS",
+    "GREEN|CURRENTPER"
+  ],
+  "LastUpdatedTimestamp": "2017-03-06T04:15:09.9325891-08:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " no."
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        },
+        {
+          "Key": "j",
+          "Value": " (season)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": [
+    "Quarterly"
+  ]
+}

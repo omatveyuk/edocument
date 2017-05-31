@@ -1,0 +1,53 @@
+{
+  "CatalogTitle": "zanweb   quarterly newsletter of zimbabwe aids network ",
+  "OriginalTitle": "ZANWeb : quarterly newsletter of Zimbabwe AIDS Network",
+  "CallNumber": "RA643.86 .Z55 W432",
+  "Issues": [
+    {
+      "Identifier": "8| 2.1\n        a| 2010\n        b| 07/09",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 2010"
+        },
+        {
+          "Key": "b",
+          "Value": " 07/09"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 2071575892
+    }
+  ],
+  "StanfordLibraryId": 9574272,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|CURRENTPER"
+  ],
+  "LastUpdatedTimestamp": "2015-12-03T05:45:47.0493947-08:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " (year)"
+        },
+        {
+          "Key": "b",
+          "Value": " (month)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": [
+    "Quarterly"
+  ]
+}

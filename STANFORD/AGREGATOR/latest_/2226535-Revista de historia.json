@@ -1,0 +1,317 @@
+{
+  "CatalogTitle": "revista de historia ",
+  "OriginalTitle": "Revista de historia",
+  "CallNumber": "F3051 .R48",
+  "Issues": [
+    {
+      "Identifier": "8| 2.1\n        a| 8\n        b| 8\n        i| 1998",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 8"
+        },
+        {
+          "Key": "b",
+          "Value": " 8"
+        },
+        {
+          "Key": "i",
+          "Value": " 1998"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 331343750
+    },
+    {
+      "Identifier": "8| 2.2\n        a| 9/10\n        b| 9/10\n        i| 1999/2000",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.2"
+        },
+        {
+          "Key": "a",
+          "Value": " 9/10"
+        },
+        {
+          "Key": "b",
+          "Value": " 9/10"
+        },
+        {
+          "Key": "i",
+          "Value": " 1999/2000"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1401388863
+    },
+    {
+      "Identifier": "8| 2.3\n        a| 11/12\n        b| 11/12\n        i| 2001/2002",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.3"
+        },
+        {
+          "Key": "a",
+          "Value": " 11/12"
+        },
+        {
+          "Key": "b",
+          "Value": " 11/12"
+        },
+        {
+          "Key": "i",
+          "Value": " 2001/2002"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1832173875
+    },
+    {
+      "Identifier": "8| 2.4\n        a| 13/14\n        b| 13/14\n        i| 2003/2004",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.4"
+        },
+        {
+          "Key": "a",
+          "Value": " 13/14"
+        },
+        {
+          "Key": "b",
+          "Value": " 13/14"
+        },
+        {
+          "Key": "i",
+          "Value": " 2003/2004"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 601004011
+    },
+    {
+      "Identifier": "8| 2.5\n        a| 15\n        b| 15\n        i| 2005",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.5"
+        },
+        {
+          "Key": "a",
+          "Value": " 15"
+        },
+        {
+          "Key": "b",
+          "Value": " 15"
+        },
+        {
+          "Key": "i",
+          "Value": " 2005"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 489078510
+    },
+    {
+      "Identifier": "8| 3.1\n        a| 16\n        b| 1\n        i| 2006\n        j| SEMESTRE_1",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 16"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2006"
+        },
+        {
+          "Key": "j",
+          "Value": " SEMESTRE_1"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 64099873
+    },
+    {
+      "Identifier": "8| 3.2\n        a| 16\n        b| 2\n        i| 2006\n        j| SEMESTRE_2",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3.2"
+        },
+        {
+          "Key": "a",
+          "Value": " 16"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        },
+        {
+          "Key": "i",
+          "Value": " 2006"
+        },
+        {
+          "Key": "j",
+          "Value": " SEMESTRE_2"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 61320943
+    },
+    {
+      "Identifier": "8| 3.3\n        a| 17\n        b| 1\n        i| 2007\n        j| SEMESTRE_1",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3.3"
+        },
+        {
+          "Key": "a",
+          "Value": " 17"
+        },
+        {
+          "Key": "b",
+          "Value": " 1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2007"
+        },
+        {
+          "Key": "j",
+          "Value": " SEMESTRE_1"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1758743089
+    },
+    {
+      "Identifier": "8| 3.4\n        a| 17\n        b| 2\n        i| 2007\n        j| SEMESTRE_2",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3.4"
+        },
+        {
+          "Key": "a",
+          "Value": " 17"
+        },
+        {
+          "Key": "b",
+          "Value": " 2"
+        },
+        {
+          "Key": "i",
+          "Value": " 2007"
+        },
+        {
+          "Key": "j",
+          "Value": " SEMESTRE_2"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1761522021
+    },
+    {
+      "Identifier": "8| 3.5\n        a| 18/19\n        i| 2008/2009",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3.5"
+        },
+        {
+          "Key": "a",
+          "Value": " 18/19"
+        },
+        {
+          "Key": "i",
+          "Value": " 2008/2009"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1478761643
+    }
+  ],
+  "StanfordLibraryId": 2226535,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|STACKS",
+    "GREEN|CURRENTPER"
+  ],
+  "LastUpdatedTimestamp": "2015-12-03T05:45:47.0493947-08:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " ano"
+        },
+        {
+          "Key": "b",
+          "Value": " v."
+        },
+        {
+          "Key": "v",
+          "Value": " c"
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        }
+      ]
+    },
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 3"
+        },
+        {
+          "Key": "a",
+          "Value": " v."
+        },
+        {
+          "Key": "b",
+          "Value": " no."
+        },
+        {
+          "Key": "u",
+          "Value": " 2"
+        },
+        {
+          "Key": "v",
+          "Value": " r"
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        },
+        {
+          "Key": "j",
+          "Value": " (unit)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": [
+    "Annual"
+  ]
+}

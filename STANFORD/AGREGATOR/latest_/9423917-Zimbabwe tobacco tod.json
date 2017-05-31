@@ -1,0 +1,146 @@
+{
+  "CatalogTitle": "zimbabwe tobacco today ",
+  "OriginalTitle": "Zimbabwe tobacco today",
+  "CallNumber": "SB298 .Z55 Z55 F",
+  "Issues": [
+    {
+      "Identifier": "8| 2.1\n        a| 2010\n        b| 10/12",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 2010"
+        },
+        {
+          "Key": "b",
+          "Value": " 10/12"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1293406876
+    },
+    {
+      "Identifier": "8| 2.2\n        a| 2011\n        b| 01/03",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.2"
+        },
+        {
+          "Key": "a",
+          "Value": " 2011"
+        },
+        {
+          "Key": "b",
+          "Value": " 01/03"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1684602541
+    },
+    {
+      "Identifier": "8| 2.3\n        a| 2012\n        b| 05/07",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.3"
+        },
+        {
+          "Key": "a",
+          "Value": " 2012"
+        },
+        {
+          "Key": "b",
+          "Value": " 05/07"
+        }
+      ],
+      "Timestamp": "2016-06-17T03:49:59.806238-07:00",
+      "Signature": 820326276
+    },
+    {
+      "Identifier": "8| 2.4\n        a| 2015\n        b| 01/03",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.4"
+        },
+        {
+          "Key": "a",
+          "Value": " 2015"
+        },
+        {
+          "Key": "b",
+          "Value": " 01/03"
+        }
+      ],
+      "Timestamp": "2016-06-17T03:49:59.806238-07:00",
+      "Signature": -1684602665
+    },
+    {
+      "Identifier": "8| 2.5\n        a| 2015\n        b| 08/09",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.5"
+        },
+        {
+          "Key": "a",
+          "Value": " 2015"
+        },
+        {
+          "Key": "b",
+          "Value": " 08/09"
+        }
+      ],
+      "Timestamp": "2016-06-17T03:49:59.806238-07:00",
+      "Signature": -1553941383
+    },
+    {
+      "Identifier": "8| 2.6\n        a| 2015\n        b| 11/12",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.6"
+        },
+        {
+          "Key": "a",
+          "Value": " 2015"
+        },
+        {
+          "Key": "b",
+          "Value": " 11/12"
+        }
+      ],
+      "Timestamp": "2016-06-17T03:49:59.806238-07:00",
+      "Signature": 1427296705
+    }
+  ],
+  "StanfordLibraryId": 9423917,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|CURRENTPER"
+  ],
+  "LastUpdatedTimestamp": "2016-06-17T03:49:59.806238-07:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " (year)"
+        },
+        {
+          "Key": "b",
+          "Value": " (month)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": []
+}

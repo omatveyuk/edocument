@@ -1,0 +1,107 @@
+{
+  "CatalogTitle": "charaka   chambre de commerce  d industrie et d agriculture de mauritanie = partenariat ",
+  "OriginalTitle": "\"Charaka / Chambre de commerce, d'industrie et d'agriculture de Mauritanie = Partenariat\"",
+  "CallNumber": "HC1050 .A1 S434 F",
+  "Issues": [
+    {
+      "Identifier": "8| 2.1\n        a| 6\n        i| 2010\n        j| 11",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 6"
+        },
+        {
+          "Key": "i",
+          "Value": " 2010"
+        },
+        {
+          "Key": "j",
+          "Value": " 11"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1139854377
+    },
+    {
+      "Identifier": "8| 2.2\n        a| 7\n        i| 2013\n        j| 07/09",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.2"
+        },
+        {
+          "Key": "a",
+          "Value": " 7"
+        },
+        {
+          "Key": "i",
+          "Value": " 2013"
+        },
+        {
+          "Key": "j",
+          "Value": " 07/09"
+        }
+      ],
+      "Timestamp": "2017-04-28T03:38:03.8270361-07:00",
+      "Signature": -2023546543
+    },
+    {
+      "Identifier": "8| 2.3\n        a| 8\n        i| 2015\n        j| 07/09",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.3"
+        },
+        {
+          "Key": "a",
+          "Value": " 8"
+        },
+        {
+          "Key": "i",
+          "Value": " 2015"
+        },
+        {
+          "Key": "j",
+          "Value": " 07/09"
+        }
+      ],
+      "Timestamp": "2017-04-28T03:38:03.8270361-07:00",
+      "Signature": -2093164058
+    }
+  ],
+  "StanfordLibraryId": 10231531,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|STACKS"
+  ],
+  "LastUpdatedTimestamp": "2017-04-28T03:38:03.8270361-07:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " no."
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        },
+        {
+          "Key": "j",
+          "Value": " (month)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": [
+    "Quarterly"
+  ]
+}

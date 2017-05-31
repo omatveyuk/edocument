@@ -1,0 +1,59 @@
+{
+  "CatalogTitle": "boletim informativo   arquivo histórico judaico brasileiro ",
+  "OriginalTitle": "Boletim informativo / Arquivo Historico Judaico Brasileiro",
+  "CallNumber": "F2659 .J5 B64",
+  "Issues": [
+    {
+      "Identifier": "8| 2.1\n        a| 49\n        i| 2013/2014\n        j| 07/03",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 49"
+        },
+        {
+          "Key": "i",
+          "Value": " 2013/2014"
+        },
+        {
+          "Key": "j",
+          "Value": " 07/03"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 387065207
+    }
+  ],
+  "StanfordLibraryId": 10589466,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|CURRENTPER"
+  ],
+  "LastUpdatedTimestamp": "2015-12-03T05:45:47.0493947-08:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " no."
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        },
+        {
+          "Key": "j",
+          "Value": " (month)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": []
+}

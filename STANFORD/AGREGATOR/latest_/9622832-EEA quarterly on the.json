@@ -1,0 +1,91 @@
+{
+  "CatalogTitle": "eea quarterly on the ethiopian economy ",
+  "OriginalTitle": "EEA quarterly on the Ethiopian economy",
+  "CallNumber": "HC845 .A1 Q387 F",
+  "Issues": [
+    {
+      "Identifier": "8| 2.1\n        a| 2011\n        b| 12",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 2011"
+        },
+        {
+          "Key": "b",
+          "Value": " 12"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1353021768
+    },
+    {
+      "Identifier": "8| 2.2\n        a| 2012\n        b| 06",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.2"
+        },
+        {
+          "Key": "a",
+          "Value": " 2012"
+        },
+        {
+          "Key": "b",
+          "Value": " 06"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -551611872
+    },
+    {
+      "Identifier": "8| 2.3\n        a| 2013\n        b| 04",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.3"
+        },
+        {
+          "Key": "a",
+          "Value": " 2013"
+        },
+        {
+          "Key": "b",
+          "Value": " 04"
+        }
+      ],
+      "Timestamp": "2016-03-14T03:00:01.4717668-07:00",
+      "Signature": -933948897
+    }
+  ],
+  "StanfordLibraryId": 9622832,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|STACKS"
+  ],
+  "LastUpdatedTimestamp": "2016-03-14T03:00:01.4717668-07:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " (year)"
+        },
+        {
+          "Key": "b",
+          "Value": " (month)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": [
+    "Quarterly"
+  ]
+}

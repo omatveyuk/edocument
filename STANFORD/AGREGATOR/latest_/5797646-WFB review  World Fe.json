@@ -1,0 +1,158 @@
+{
+  "CatalogTitle": "w f b  review   world fellowship of buddhists ",
+  "OriginalTitle": "W.F.B. review / World Fellowship of Buddhists",
+  "CallNumber": "BQ2 .W48",
+  "Issues": [
+    {
+      "Identifier": "8| 2.1\n        a| 41/42\n        b| 4/1\n        i| 2004/2005\n        j| 10/03",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 41/42"
+        },
+        {
+          "Key": "b",
+          "Value": " 4/1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2004/2005"
+        },
+        {
+          "Key": "j",
+          "Value": " 10/03"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1810843996
+    },
+    {
+      "Identifier": "8| 2.2\n        a| 42\n        b| 2/3\n        i| 2005\n        j| 04/09",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.2"
+        },
+        {
+          "Key": "a",
+          "Value": " 42"
+        },
+        {
+          "Key": "b",
+          "Value": " 2/3"
+        },
+        {
+          "Key": "i",
+          "Value": " 2005"
+        },
+        {
+          "Key": "j",
+          "Value": " 04/09"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1747625202
+    },
+    {
+      "Identifier": "8| 2.3\n        a| 42/43\n        b| 4/1\n        i| 2005/2006\n        j| 10/03",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.3"
+        },
+        {
+          "Key": "a",
+          "Value": " 42/43"
+        },
+        {
+          "Key": "b",
+          "Value": " 4/1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2005/2006"
+        },
+        {
+          "Key": "j",
+          "Value": " 10/03"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 1474346553
+    },
+    {
+      "Identifier": "8| 2.4\n        a| 43\n        b| 2/3\n        i| 2006\n        j| 04/09",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.4"
+        },
+        {
+          "Key": "a",
+          "Value": " 43"
+        },
+        {
+          "Key": "b",
+          "Value": " 2/3"
+        },
+        {
+          "Key": "i",
+          "Value": " 2006"
+        },
+        {
+          "Key": "j",
+          "Value": " 04/09"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1106585353
+    }
+  ],
+  "StanfordLibraryId": 5797646,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|STACKS"
+  ],
+  "LastUpdatedTimestamp": "2015-12-03T05:45:47.0493947-08:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " v."
+        },
+        {
+          "Key": "b",
+          "Value": " no."
+        },
+        {
+          "Key": "u",
+          "Value": " 4"
+        },
+        {
+          "Key": "v",
+          "Value": " r"
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        },
+        {
+          "Key": "j",
+          "Value": " (month)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": [
+    "Quarterly"
+  ]
+}

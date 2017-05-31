@@ -1,0 +1,61 @@
+{
+  "CatalogTitle": "der signalgast   mitteilungen der deutschen gesellschaft für schiffahrts  und marinegeschichte e v ",
+  "OriginalTitle": "Signalgast : Mitteilungen der Deutschen Gesellschaft fur Schiffahrts- und Marinegeschichte e.V.",
+  "CallNumber": "VK3 .D48A",
+  "Issues": [
+    {
+      "Identifier": "8| 2.1\n        a| 19\n        i| 2013\n        j| 09",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 19"
+        },
+        {
+          "Key": "i",
+          "Value": " 2013"
+        },
+        {
+          "Key": "j",
+          "Value": " 09"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1755370940
+    }
+  ],
+  "StanfordLibraryId": 10291334,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|CURRENTPER"
+  ],
+  "LastUpdatedTimestamp": "2015-12-03T05:45:47.0493947-08:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " ausg."
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        },
+        {
+          "Key": "j",
+          "Value": " (month)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": [
+    "Twice a year"
+  ]
+}

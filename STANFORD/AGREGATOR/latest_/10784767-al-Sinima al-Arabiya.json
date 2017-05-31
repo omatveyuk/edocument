@@ -1,0 +1,130 @@
+{
+  "CatalogTitle": "880 01 al sīnimā al ʻarabīyah   qaḍāyā al sīnimā fī al waṭan al ʻarabī  wa qaḍāyā al waṭan al ʻarabī fī al sīnimā   markaz dirāsāt al waḥdah al ʻarabīyah ",
+  "OriginalTitle": "\"al-Sinima al-?Arabiyah : qa?aya al-sinima fi al-wa?an al-?Arabi, wa-qa?aya al-wa?an al-?Arabi fi al-sinima \"",
+  "CallNumber": "PN1993.5 .A65 S565",
+  "Issues": [
+    {
+      "Identifier": "8| 2.1\n        a| 1\n        i| 2015\n        j| 16",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2015"
+        },
+        {
+          "Key": "j",
+          "Value": " 16"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 2113803059
+    },
+    {
+      "Identifier": "8| 2.2\n        a| 2\n        i| 2015\n        j| 13",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.2"
+        },
+        {
+          "Key": "a",
+          "Value": " 2"
+        },
+        {
+          "Key": "i",
+          "Value": " 2015"
+        },
+        {
+          "Key": "j",
+          "Value": " 13"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -2110254285
+    },
+    {
+      "Identifier": "8| 2.3\n        a| 3/4\n        i| 2015\n        j| 14/15",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.3"
+        },
+        {
+          "Key": "a",
+          "Value": " 3/4"
+        },
+        {
+          "Key": "i",
+          "Value": " 2015"
+        },
+        {
+          "Key": "j",
+          "Value": " 14/15"
+        }
+      ],
+      "Timestamp": "2016-01-27T03:00:02.6917826-08:00",
+      "Signature": -801647827
+    },
+    {
+      "Identifier": "8| 2.4\n        a| 5\n        i| 2016\n        j| 16",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.4"
+        },
+        {
+          "Key": "a",
+          "Value": " 5"
+        },
+        {
+          "Key": "i",
+          "Value": " 2016"
+        },
+        {
+          "Key": "j",
+          "Value": " 16"
+        }
+      ],
+      "Timestamp": "2016-04-18T03:00:07.0056409-07:00",
+      "Signature": -2063878817
+    }
+  ],
+  "StanfordLibraryId": 10784767,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|CURRENTPER"
+  ],
+  "LastUpdatedTimestamp": "2016-04-18T03:00:07.0056409-07:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " no."
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        },
+        {
+          "Key": "j",
+          "Value": " (season)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": [
+    "Quarterly"
+  ]
+}

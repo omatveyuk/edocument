@@ -1,0 +1,107 @@
+{
+  "CatalogTitle": "programme national de sécurité alimentaire pnsa   bulletin de liaison et d information ",
+  "OriginalTitle": "Programme national de s�curit� alimentaire PNSA : bulletin de liaison et d'information",
+  "CallNumber": "HD9017 .C45 P76 F",
+  "Issues": [
+    {
+      "Identifier": "8| 2.1\n        a| 0\n        i| 2010\n        j| 06/08",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.1"
+        },
+        {
+          "Key": "a",
+          "Value": " 0"
+        },
+        {
+          "Key": "i",
+          "Value": " 2010"
+        },
+        {
+          "Key": "j",
+          "Value": " 06/08"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 2127763787
+    },
+    {
+      "Identifier": "8| 2.2\n        a| 1\n        i| 2010/2011\n        j| 09/01",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.2"
+        },
+        {
+          "Key": "a",
+          "Value": " 1"
+        },
+        {
+          "Key": "i",
+          "Value": " 2010/2011"
+        },
+        {
+          "Key": "j",
+          "Value": " 09/01"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": -1714227197
+    },
+    {
+      "Identifier": "8| 2.3\n        a| 3\n        i| 2011\n        j| 07/09",
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2.3"
+        },
+        {
+          "Key": "a",
+          "Value": " 3"
+        },
+        {
+          "Key": "i",
+          "Value": " 2011"
+        },
+        {
+          "Key": "j",
+          "Value": " 07/09"
+        }
+      ],
+      "Timestamp": "2015-12-03T05:45:47.0493947-08:00",
+      "Signature": 476929724
+    }
+  ],
+  "StanfordLibraryId": 9516475,
+  "OriginalExcelRow": null,
+  "Libraries": [
+    "GREEN|CURRENTPER"
+  ],
+  "LastUpdatedTimestamp": "2015-12-03T05:45:47.0493947-08:00",
+  "PublicationPatterns": [
+    {
+      "Parts": [
+        {
+          "Key": "8",
+          "Value": " 2"
+        },
+        {
+          "Key": "a",
+          "Value": " no."
+        },
+        {
+          "Key": "i",
+          "Value": " (year)"
+        },
+        {
+          "Key": "j",
+          "Value": " (month)"
+        }
+      ]
+    }
+  ],
+  "PublicationFrequency": [
+    "Quarterly"
+  ]
+}
