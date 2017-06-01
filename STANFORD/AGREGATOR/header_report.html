@@ -8,6 +8,9 @@
   <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"/>
   <link href="https://fonts.googleapis.com/css?family=Source+Serif+Pro" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+  <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
 
   <style>
 
@@ -20,13 +23,13 @@
       color: #FFFFFF;
     }
 
+    body {
+      font-size: 12px;
+    }
+
     p {
       margin: 30px;
       padding: 10px 0px 10px 0px;
-    }
-
-    .container-fluid {
-      margin: 0px 15px 0px 15px;
     }
 
     #t {
@@ -39,10 +42,24 @@
       margin: 0px 0px 25px 0px;
 
     }
+/*
+    #t-fullsearch {
+      font-weight: bold;
+      font-family: 'Source Serif Pro', serif;
+      font-size: 15px;
+      color: #8C1515;
+      text-align: right;
 
-    .table {
-      margin: 0px 15px 0px 15px;
+    }*/
+
+    #full-search {
+      width: 100%; 
+      font-size: 16px; 
+      padding: 12px 20px 12px 40px; 
+      border: 1px solid #DDDDDD; 
+      margin-bottom: 12px; 
     }
+
 
     hr {
       border-color: #8C1515;
@@ -66,10 +83,22 @@
 
     .table > tbody > tr > td {
       vertical-align: top;
+      border: 0.5px solid #000000;
     }
 
-    td{
+    td {
       word-wrap:break-word;
+    }
+    thead {
+      background-color: #8C1515;
+      color: #FFFFFF;
+      text-align: center;
+      height: 40px ;
+    }
+
+    #wrap {
+      overflow: auto;
+      height: 600px;
     }
 
   </style>
@@ -80,12 +109,17 @@
   <div class="row" id="t">
     Stanford University Libraries
   </div>
+  <!-- full search -->
   <div class="row">
-      <div class="table-responsive">
-          <table class="table table-hover">
+    <div class="col-xs-offset-1 col-xs-10">
+      <input type="text" class="form-control" id="full-search" placeholder="Search by title..."/>
+    </div> 
+  </div>
+  <!-- <div class="row"> -->
+      <div class="table-responsive" id="wrap">
+          <table class="table table-hover header-fixed" id="agregator-table">
             <thead>
               <tr>
-                <th>URL</th>
                 <th>ID</th>
                 <th>Title</th>
                 <th>Latest issue year</th>

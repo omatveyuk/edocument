@@ -95,22 +95,15 @@ def statistic_last_12_months(issues):
 
 def create_report_periodicals(path):
     """Return list with information for each periodical and data of latest update"""
-    # print "PATH", path
-    # print "__file__", __file__
-    # if path == None:
-    #     path = __file__ # current path
-
-    # rootdir = os.path.dirname(os.path.realpath(path))
     if path == '':
-        path = os.path.dirname(os.path.realpath(__file__))
+        path = os.path.dirname(os.path.realpath(__file__)) + "/latest/"
 
     report_periodicals = []
     latest_update = datetime.min.date()
-    print "PATH", path
-    files = [each for each in os.listdir(path + "/latest/") if each.endswith('.json')]
+    files = [each for each in os.listdir(path) if each.endswith('.json')]
 
     for f in files:
-        with open(path + "/latest/" + f) as json_file:
+        with open(path + f) as json_file:
             with Timer(True) as t:
                 t.__enter__()
                 data = json.load(json_file)
@@ -166,12 +159,12 @@ def create_report_periodicals(path):
         t.__exit__()
     return [report_periodicals, latest_update]
 
-def create_xls(outputfile, report_periodicals, latest_update):
+def create_xls(outputdir, report_periodicals, latest_update):
     """Create a workbook and add a worksheet."""
-    if outputfile == '':
+    if outputdir == '':
         workbook = xlsxwriter.Workbook('stanford_daily_report.xlsx')
     else:
-        workbook = xlsxwriter.Workbook(outputfile + '.xlsx')
+        workbook = xlsxwriter.Workbook(outputdir + 'stanford_daily_report.xlsx')
     worksheet = workbook.add_worksheet()
 
     # Start from the first cell. Rows and columns are zero indexed.
@@ -242,11 +235,11 @@ def create_xls(outputfile, report_periodicals, latest_update):
     workbook.close()
 
 
-def create_html(outputfile,report_periodicals, latest_update):
-    if outputfile == '':
+def create_html(outputdir,report_periodicals, latest_update):
+    if outputdir == '':
         html_file = 'stanford_daily_report.html'
     else:
-        html_file = outputfile + '.html'
+        html_file = outputdir + 'stanford_daily_report.html'
     
     with open(html_file, 'w') as outfile:
         with open('header_report.html') as infile:
@@ -270,23 +263,17 @@ def create_html(outputfile,report_periodicals, latest_update):
         # Iterate over the data and write it out row by row.
         for item in (report_periodicals):
             if item[1] == latest_update:
-                html = '<tr style="background: pink">'
+                html = '<tr style="background: #FCE9E9">'
             else:
                 html = '<tr>'
             html += '<td><a href="https://searchworks.stanford.edu/catalog/{0}/librarian_view"'.format(item[2])
-            html += '>SearchWorks</a></td>'
-            html += '<td>' + str(item[2]) + '</td>'
+            html += '>' + str(item[2]) + '</a></td>'
             html += '<td>' + item[0] + '</td>'
             if item[8] is None:
                 html += '<td> </td>'
             else:
                 html += '<td>' + item[8] + '</td>'
-            # html += '<td>' + '' if item[8] is None else item[8] + '</td>'
             html += '<td>' + item[4] + '</td>'
-            # if item[1] == 'n/a':
-            #     html += '<td>' + item[1] + '</td>'
-            # else:
-            #     html += '<td>' + str(item[1]) + '</td>'
             html += '<td>' + str(item[1]) + '</td>'
             html += '<td>' + item[3] + '</td>'
             html += '<td>' + "".join(item[5]) + '</td>'
@@ -303,38 +290,35 @@ def create_html(outputfile,report_periodicals, latest_update):
                 outfile.write(infile.read())
 
 
-
-
-
 def main(argv):
     total = len(sys.argv)
     cmdargs = str(sys.argv)
 
     # Read command line args
-    inputfile = ''
-    outputfile = ''
+    inputdir = ''
+    outputdir = ''
     try:
-        opts, args = getopt.getopt(argv, "hi:o:", ["ifile=", "ofile="])
+        opts, args = getopt.getopt(argv, "hi:o:", ["idir=", "odir="])
     except getopt.GetoptError:
         print
-        'test.py -i <inputfile> -o <outputfile>'
+        'test.py -i <inputdir> -o <outputdir>'
         sys.exit(2)
     for opt, arg in opts:
         if opt == '-h':
-            print 'test.py -i <inputfile> -o <outputfile>'
+            print 'test.py -i <inputdir> -o <outputdir>'
             sys.exit()
-        elif opt in ("-i", "--ifile"):
-            inputfile = arg
-        elif opt in ("-o", "--ofile"):
-            outputfile = arg
-    print 'Input file is "', inputfile
-    print 'Output file is "', outputfile
+        elif opt in ("-i", "--idir"):
+            inputdir = arg
+        elif opt in ("-o", "--odir"):
+            outputdir = arg
+    print 'Input directory is "', inputdir
+    print 'Output directory is "', outputdir
 
     with Timer(True) as t:
         t.__enter__()
-        report_periodicals, latest_update = create_report_periodicals(inputfile)
-        create_xls(outputfile, report_periodicals, latest_update)
-        create_html(outputfile, report_periodicals, latest_update)
+        report_periodicals, latest_update = create_report_periodicals(inputdir)
+        create_xls(outputdir, report_periodicals, latest_update)
+        create_html(outputdir, report_periodicals, latest_update)
         t.__exit__();
 
 if __name__ == "__main__":

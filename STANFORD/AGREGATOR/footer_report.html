@@ -1,9 +1,57 @@
         </tbody>
       </table>
-    </div>
+    <!-- </div> -->
   </div>
   <footer>
     <p>Developed by Oxana Matveyuk (<a id="me" href="http://www.matveyuk.com">www.matveyuk.com</a>)</p>
   </footer>
+
+  <script>
+    "use strict";
+
+    // full search
+    $(function() { 
+      $('#full-search').on('input', function(e) {
+        // Declare variables 
+        var input, filter, table, tr, td, i;
+        input = $('#full-search');
+        // start search with delay in 1000 ms
+        delay(function(){
+          filter = new RegExp(input["0"].value, 'i');
+          table = $('#agregator-table'); 
+          tr = table["0"].rows;
+
+          // Loop through all table rows, and hide those who don't match the search query
+          for (i = 1; i < tr.length; i++) {
+            td = tr[i].cells[1].innerText;
+            if (td) {
+              if ((filter.test(td)) || (input["0"].value === '')) {
+                  tr[i].style.display = "";
+              } else {
+                  tr[i].style.display = "none";
+              }
+            }
+          }
+          // alert('Time elapsed!');
+        }, 1000 ); 
+      })
+    });
+
+    var delay = (function(){
+      var timer = 0;
+      return function(callback, ms){
+        clearTimeout (timer);
+        timer = setTimeout(callback, ms);
+      };
+    })();
+
+
+    $(function() { 
+      $('#wrap').on('scroll', function(e) {      
+        var translate = "translate(0,"+this.scrollTop+"px)";
+        this.querySelector("thead").style.transform = translate;
+      });
+    });
+</script>  
 </body>
 </html>
