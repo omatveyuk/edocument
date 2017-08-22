@@ -1,5 +1,6 @@
 """ Cosine similarity algorithm.
     Define semilarity of two strings.
+    cosine_semilarity = dot_product/ magnitude1*magnitude2
 
 # >>> cosine_semilarity("I love Uliana", "I love Uliana")
 # 1.0
